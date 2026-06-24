@@ -1,0 +1,1001 @@
+Student ID,Student Name,Department,Course,Semester,Attendance %,Marks,Grade,Faculty Name,Classroom,Study Hours,Library Usage,Lab Usage,Scholarship Status,Fees Paid,Placement Status
+STU0001,Student_1,ECE,Data Science,7,86.14,66,C,Prof. Reddy,Lab 2,6.4,45,18,Yes,22859,Not Placed
+STU0002,Student_2,EEE,Python,5,85.82,64,C,Dr. Kumar,Lab 1,8.4,41,24,Yes,75423,Not Placed
+STU0003,Student_3,Civil,Data Science,7,89.22,60,C,Dr. Sharma,Block B,9.3,36,29,No,113154,Not Placed
+STU0004,Student_4,MBA,DBMS,8,68.27,55,D,Prof. Rao,Lab 1,7.8,8,7,Yes,32829,Not Placed
+STU0005,Student_5,MBA,AI,3,99.63,74,C,Prof. Reddy,Block B,8.9,11,4,Yes,49869,Not Placed
+STU0006,Student_6,CSE,DBMS,5,79.46,55,D,Dr. Sharma,Block A,2.9,49,40,No,74486,Placed
+STU0007,Student_7,Civil,Networks,5,95.83,62,C,Prof. Reddy,Block B,8.2,23,38,Yes,32130,Not Placed
+STU0008,Student_8,Civil,AI,7,91.41,75,B,Dr. Sharma,Block A,7.7,3,11,Yes,100014,Not Placed
+STU0009,Student_9,Civil,Networks,1,84.13,64,C,Prof. Reddy,Block B,4.6,25,2,Yes,29173,Placed
+STU0010,Student_10,CSE,AI,6,83.53,79,B,Dr. Sharma,Block A,4.9,17,2,No,52199,Placed
+STU0011,Student_11,Mechanical,Data Science,4,98.83,68,C,Dr. Sharma,Lab 1,7.6,36,36,Yes,49094,Placed
+STU0012,Student_12,Civil,Networks,2,60.38,54,D,Dr. Kumar,Lab 1,8.7,36,6,Yes,60345,Not Placed
+STU0013,Student_13,Mechanical,Management,1,64.58,82,B,Prof. Rao,Block A,3.2,7,5,No,43352,Placed
+STU0014,Student_14,MBA,AI,6,78.35,41,D,Dr. Kumar,Lab 2,8.5,39,36,Yes,90289,Placed
+STU0015,Student_15,ECE,Networks,8,61.09,98,A,Prof. Reddy,Block B,5.3,23,21,No,73376,Placed
+STU0016,Student_16,CSE,Management,8,81.8,64,C,Dr. Kumar,Block A,2.0,21,7,No,57980,Not Placed
+STU0017,Student_17,Civil,Python,7,82.32,44,D,Dr. Sharma,Lab 1,5.5,15,37,Yes,36389,Placed
+STU0018,Student_18,CSE,Python,1,62.2,81,B,Prof. Reddy,Block B,9.9,32,27,No,76155,Placed
+STU0019,Student_19,MBA,Data Science,6,85.93,46,D,Prof. Reddy,Lab 1,9.1,17,10,Yes,104596,Not Placed
+STU0020,Student_20,Civil,AI,5,82.61,38,F,Prof. Reddy,Block B,9.3,37,6,Yes,115803,Not Placed
+STU0021,Student_21,Civil,Data Science,8,70.51,59,D,Prof. Reddy,Lab 2,2.7,24,35,Yes,34436,Not Placed
+STU0022,Student_22,EEE,Management,1,70.38,90,A,Dr. Sharma,Block A,9.5,42,15,Yes,36106,Placed
+STU0023,Student_23,CSE,Networks,1,96.42,47,D,Prof. Reddy,Block A,3.9,1,4,Yes,38000,Placed
+STU0024,Student_24,EEE,Management,7,93.15,45,D,Prof. Reddy,Lab 2,5.2,21,32,No,31703,Not Placed
+STU0025,Student_25,CSE,DBMS,7,96.85,70,C,Dr. Kumar,Block A,3.8,8,35,No,75333,Placed
+STU0026,Student_26,EEE,Management,8,98.13,65,C,Dr. Kumar,Lab 2,6.1,20,5,Yes,96130,Not Placed
+STU0027,Student_27,ECE,Python,3,77.18,93,A,Dr. Kumar,Lab 1,3.9,23,31,Yes,102297,Placed
+STU0028,Student_28,MBA,Python,3,78.37,87,B,Dr. Kumar,Lab 1,5.5,50,6,Yes,108667,Not Placed
+STU0029,Student_29,Civil,Data Science,8,60.57,91,A,Dr. Sharma,Block B,8.3,10,34,No,43605,Placed
+STU0030,Student_30,CSE,Data Science,8,87.73,81,B,Dr. Kumar,Lab 1,8.2,29,31,Yes,21248,Not Placed
+STU0031,Student_31,Mechanical,Data Science,1,65.34,89,B,Dr. Kumar,Lab 2,8.7,9,40,No,97670,Placed
+STU0032,Student_32,ECE,Networks,1,94.15,97,A,Prof. Reddy,Block B,7.2,48,20,Yes,72554,Not Placed
+STU0033,Student_33,Mechanical,Networks,8,83.23,63,C,Dr. Kumar,Lab 1,5.0,15,11,No,33152,Not Placed
+STU0034,Student_34,MBA,Python,1,80.38,63,C,Prof. Rao,Lab 1,4.0,31,25,Yes,116865,Not Placed
+STU0035,Student_35,EEE,Python,5,82.47,52,D,Dr. Sharma,Lab 2,7.7,11,1,No,72402,Not Placed
+STU0036,Student_36,Civil,Management,6,65.5,49,D,Prof. Reddy,Block B,6.8,18,7,Yes,33745,Placed
+STU0037,Student_37,Mechanical,AI,7,81.85,43,D,Dr. Kumar,Lab 1,2.5,2,15,Yes,29015,Placed
+STU0038,Student_38,EEE,Python,5,92.77,41,D,Dr. Sharma,Lab 2,1.0,1,6,Yes,103279,Not Placed
+STU0039,Student_39,Civil,Networks,7,68.92,69,C,Prof. Rao,Block B,3.5,18,6,No,106738,Placed
+STU0040,Student_40,MBA,Management,6,71.31,90,A,Dr. Sharma,Block B,9.8,11,5,No,66755,Placed
+STU0041,Student_41,ECE,Networks,4,81.3,56,D,Dr. Kumar,Block B,6.4,49,10,Yes,95372,Placed
+STU0042,Student_42,MBA,Networks,5,74.4,84,B,Dr. Kumar,Block B,4.5,45,16,Yes,102570,Placed
+STU0043,Student_43,Mechanical,DBMS,1,61.21,42,D,Prof. Reddy,Lab 2,6.2,3,16,No,45283,Not Placed
+STU0044,Student_44,Mechanical,Networks,8,68.46,97,A,Prof. Reddy,Lab 2,5.7,38,40,No,49722,Placed
+STU0045,Student_45,EEE,Python,7,69.75,93,A,Prof. Rao,Lab 2,3.5,11,5,Yes,78214,Placed
+STU0046,Student_46,MBA,AI,6,84.82,42,D,Prof. Rao,Block B,5.6,49,14,Yes,93225,Not Placed
+STU0047,Student_47,Mechanical,Networks,6,74.91,44,D,Prof. Rao,Block B,3.0,37,39,Yes,105101,Not Placed
+STU0048,Student_48,Mechanical,AI,4,93.63,77,B,Prof. Rao,Lab 2,6.5,11,1,Yes,89975,Not Placed
+STU0049,Student_49,ECE,DBMS,5,87.2,78,B,Dr. Sharma,Lab 1,2.0,27,7,No,74458,Placed
+STU0050,Student_50,Civil,Data Science,6,80.26,39,F,Prof. Rao,Block B,2.9,28,13,Yes,86839,Placed
+STU0051,Student_51,MBA,Data Science,4,96.46,97,A,Dr. Kumar,Block A,2.2,26,19,Yes,106459,Not Placed
+STU0052,Student_52,Civil,Management,5,90.59,43,D,Prof. Rao,Lab 1,3.8,36,17,Yes,76680,Placed
+STU0053,Student_53,Civil,Python,5,98.0,94,A,Dr. Kumar,Lab 1,9.2,36,33,Yes,20829,Placed
+STU0054,Student_54,EEE,Python,5,94.09,85,B,Dr. Kumar,Block A,7.7,19,27,Yes,95202,Not Placed
+STU0055,Student_55,Civil,Management,1,79.86,56,D,Prof. Reddy,Lab 2,8.4,3,6,No,31750,Placed
+STU0056,Student_56,EEE,DBMS,7,64.56,91,A,Prof. Rao,Block B,9.7,48,27,Yes,71441,Not Placed
+STU0057,Student_57,ECE,Data Science,4,65.82,95,A,Dr. Sharma,Block A,8.6,38,40,No,21041,Placed
+STU0058,Student_58,ECE,Python,8,73.5,87,B,Dr. Kumar,Block A,8.9,24,18,No,38574,Placed
+STU0059,Student_59,MBA,Python,8,61.94,65,C,Dr. Sharma,Lab 1,4.7,16,6,Yes,55495,Not Placed
+STU0060,Student_60,Civil,DBMS,5,60.87,41,D,Prof. Reddy,Block A,1.4,40,28,No,44699,Placed
+STU0061,Student_61,MBA,DBMS,3,75.45,48,D,Dr. Kumar,Block B,7.6,39,29,Yes,94459,Placed
+STU0062,Student_62,MBA,Management,6,84.03,70,C,Prof. Reddy,Block B,1.8,25,15,Yes,92150,Placed
+STU0063,Student_63,Mechanical,DBMS,3,95.88,63,C,Prof. Rao,Lab 1,7.8,31,7,No,28156,Placed
+STU0064,Student_64,EEE,DBMS,7,84.11,49,D,Prof. Reddy,Block B,6.8,23,39,No,23324,Placed
+STU0065,Student_65,EEE,Data Science,6,87.68,92,A,Prof. Reddy,Block B,1.5,23,31,Yes,51843,Not Placed
+STU0066,Student_66,EEE,Networks,1,65.85,44,D,Dr. Kumar,Lab 2,8.4,12,24,Yes,92719,Placed
+STU0067,Student_67,ECE,Networks,4,98.19,79,B,Dr. Kumar,Block B,8.1,10,34,Yes,32494,Not Placed
+STU0068,Student_68,MBA,Management,2,78.75,53,D,Dr. Kumar,Block B,3.7,43,20,Yes,29336,Placed
+STU0069,Student_69,EEE,Management,7,98.62,51,D,Dr. Kumar,Block B,3.8,3,33,Yes,108065,Not Placed
+STU0070,Student_70,EEE,DBMS,5,79.83,47,D,Dr. Sharma,Block B,3.8,37,12,Yes,69995,Placed
+STU0071,Student_71,CSE,Management,1,76.67,76,B,Prof. Reddy,Block B,4.3,7,40,Yes,100862,Not Placed
+STU0072,Student_72,MBA,Management,3,94.77,84,B,Prof. Rao,Block B,5.8,19,37,No,83292,Placed
+STU0073,Student_73,Civil,Python,1,81.97,79,B,Prof. Rao,Block A,7.1,15,15,Yes,23209,Placed
+STU0074,Student_74,MBA,Data Science,7,94.25,39,F,Prof. Rao,Lab 1,6.2,21,20,No,114849,Not Placed
+STU0075,Student_75,ECE,AI,3,65.56,63,C,Dr. Kumar,Block B,3.0,39,26,Yes,40163,Not Placed
+STU0076,Student_76,ECE,Networks,7,77.73,88,B,Prof. Rao,Lab 1,10.0,11,15,No,45023,Placed
+STU0077,Student_77,Civil,AI,6,91.85,50,D,Prof. Reddy,Block B,4.7,31,25,Yes,76069,Not Placed
+STU0078,Student_78,Mechanical,Python,7,67.76,87,B,Prof. Rao,Block B,3.2,48,19,No,65421,Placed
+STU0079,Student_79,Mechanical,Networks,6,80.32,53,D,Prof. Reddy,Lab 2,3.4,5,21,No,37016,Not Placed
+STU0080,Student_80,EEE,Python,3,73.19,37,F,Prof. Reddy,Block B,9.0,41,28,Yes,22507,Placed
+STU0081,Student_81,EEE,Python,3,93.99,38,F,Prof. Rao,Lab 2,5.0,23,39,Yes,92273,Not Placed
+STU0082,Student_82,Mechanical,DBMS,5,70.32,98,A,Prof. Rao,Block A,3.8,4,35,No,99891,Placed
+STU0083,Student_83,MBA,Python,7,98.49,63,C,Prof. Rao,Block B,3.0,38,12,Yes,101083,Placed
+STU0084,Student_84,MBA,DBMS,4,98.88,65,C,Dr. Sharma,Block A,9.1,24,29,Yes,69186,Placed
+STU0085,Student_85,ECE,Data Science,5,97.11,58,D,Prof. Rao,Lab 1,6.0,15,2,Yes,88486,Placed
+STU0086,Student_86,CSE,Networks,4,67.37,53,D,Dr. Sharma,Block B,2.6,1,23,Yes,79416,Placed
+STU0087,Student_87,EEE,DBMS,8,85.9,74,C,Prof. Reddy,Lab 1,2.8,42,23,No,90307,Placed
+STU0088,Student_88,MBA,AI,5,61.28,85,B,Dr. Kumar,Lab 2,2.3,7,29,Yes,96778,Placed
+STU0089,Student_89,CSE,Data Science,6,78.84,69,C,Dr. Sharma,Block B,2.8,34,30,Yes,32696,Placed
+STU0090,Student_90,ECE,DBMS,8,98.51,43,D,Dr. Sharma,Lab 2,3.5,7,25,No,28277,Placed
+STU0091,Student_91,Civil,Management,2,80.2,59,D,Prof. Reddy,Block B,4.3,3,14,Yes,94591,Not Placed
+STU0092,Student_92,MBA,Management,4,68.07,68,C,Prof. Reddy,Lab 1,5.5,7,6,Yes,74260,Placed
+STU0093,Student_93,EEE,Networks,8,63.34,58,D,Prof. Rao,Block B,8.1,18,1,No,26122,Not Placed
+STU0094,Student_94,Civil,Data Science,2,98.8,60,C,Dr. Sharma,Lab 1,6.0,30,33,Yes,100053,Not Placed
+STU0095,Student_95,EEE,Management,5,67.34,39,F,Prof. Reddy,Block A,3.3,24,39,No,90338,Placed
+STU0096,Student_96,EEE,Data Science,8,88.96,92,A,Prof. Reddy,Lab 2,5.5,2,31,No,49593,Placed
+STU0097,Student_97,Mechanical,Networks,3,90.89,82,B,Prof. Reddy,Lab 1,6.6,5,6,Yes,38174,Placed
+STU0098,Student_98,MBA,AI,6,68.28,36,F,Dr. Kumar,Block B,3.1,33,21,No,109863,Not Placed
+STU0099,Student_99,Civil,Data Science,8,94.28,60,C,Prof. Reddy,Block A,1.8,13,39,No,67065,Placed
+STU0100,Student_100,CSE,Management,1,85.0,56,D,Prof. Rao,Lab 1,4.1,49,19,Yes,26334,Placed
+STU0101,Student_101,ECE,DBMS,8,77.56,59,D,Dr. Sharma,Block B,2.1,9,10,Yes,27270,Placed
+STU0102,Student_102,EEE,DBMS,2,86.39,91,A,Prof. Rao,Block B,4.0,41,12,Yes,109724,Placed
+STU0103,Student_103,MBA,Python,8,91.16,80,B,Dr. Sharma,Lab 2,4.3,10,9,No,55022,Not Placed
+STU0104,Student_104,MBA,AI,4,95.49,72,C,Dr. Kumar,Lab 2,1.7,34,25,No,98563,Placed
+STU0105,Student_105,Mechanical,DBMS,5,68.43,80,B,Prof. Rao,Lab 2,8.7,9,12,Yes,66674,Not Placed
+STU0106,Student_106,ECE,DBMS,8,81.11,100,A,Dr. Kumar,Lab 2,1.5,6,35,No,113764,Not Placed
+STU0107,Student_107,EEE,DBMS,6,73.42,95,A,Dr. Sharma,Lab 2,7.9,10,35,No,108538,Not Placed
+STU0108,Student_108,EEE,DBMS,6,94.05,88,B,Dr. Kumar,Block B,2.2,22,2,Yes,24909,Placed
+STU0109,Student_109,ECE,Networks,7,76.1,91,A,Dr. Sharma,Lab 2,3.7,25,17,Yes,70245,Not Placed
+STU0110,Student_110,Mechanical,DBMS,5,71.59,62,C,Prof. Reddy,Block A,2.8,11,17,No,111273,Not Placed
+STU0111,Student_111,MBA,Data Science,3,95.05,80,B,Prof. Reddy,Block A,8.3,3,32,Yes,53368,Not Placed
+STU0112,Student_112,MBA,Networks,3,65.59,69,C,Dr. Sharma,Block A,1.9,39,10,Yes,93737,Placed
+STU0113,Student_113,EEE,Data Science,3,60.49,71,C,Dr. Sharma,Block A,9.9,25,17,No,56446,Placed
+STU0114,Student_114,EEE,AI,5,96.4,44,D,Prof. Reddy,Block A,4.7,20,12,Yes,32478,Not Placed
+STU0115,Student_115,Mechanical,AI,6,67.66,49,D,Prof. Rao,Block A,2.5,22,24,No,97137,Not Placed
+STU0116,Student_116,ECE,Networks,7,88.33,57,D,Dr. Kumar,Block A,5.6,41,23,No,108791,Not Placed
+STU0117,Student_117,EEE,AI,5,64.18,80,B,Dr. Kumar,Lab 2,3.4,10,19,Yes,42792,Not Placed
+STU0118,Student_118,MBA,DBMS,4,96.77,74,C,Dr. Kumar,Lab 2,3.8,50,23,Yes,116268,Not Placed
+STU0119,Student_119,Mechanical,Management,8,73.96,37,F,Dr. Sharma,Block B,2.8,28,15,No,39175,Placed
+STU0120,Student_120,ECE,Python,6,73.29,39,F,Dr. Sharma,Lab 2,9.1,31,9,Yes,105925,Placed
+STU0121,Student_121,EEE,DBMS,3,68.08,53,D,Prof. Rao,Lab 1,2.3,42,23,No,98923,Placed
+STU0122,Student_122,Mechanical,Networks,8,97.35,89,B,Dr. Kumar,Lab 1,6.7,41,30,Yes,43715,Not Placed
+STU0123,Student_123,ECE,Data Science,4,97.13,39,F,Dr. Kumar,Block A,7.4,35,13,No,118435,Not Placed
+STU0124,Student_124,MBA,Management,2,99.58,42,D,Prof. Reddy,Lab 2,7.5,13,25,No,86090,Not Placed
+STU0125,Student_125,CSE,Data Science,4,75.51,42,D,Dr. Sharma,Block A,9.1,3,24,No,108579,Not Placed
+STU0126,Student_126,MBA,Data Science,5,69.52,78,B,Prof. Rao,Lab 2,6.3,10,38,Yes,43781,Placed
+STU0127,Student_127,MBA,Networks,4,87.23,82,B,Prof. Reddy,Block B,9.4,33,11,No,44416,Not Placed
+STU0128,Student_128,Mechanical,AI,1,85.8,67,C,Prof. Rao,Block A,4.8,45,8,Yes,45522,Not Placed
+STU0129,Student_129,Mechanical,DBMS,2,81.41,60,C,Dr. Sharma,Lab 2,4.2,16,10,Yes,37944,Placed
+STU0130,Student_130,MBA,AI,7,71.37,72,C,Prof. Reddy,Lab 2,6.4,13,36,No,49248,Placed
+STU0131,Student_131,ECE,Management,8,96.3,81,B,Prof. Reddy,Block B,9.2,4,12,Yes,91123,Not Placed
+STU0132,Student_132,MBA,Networks,2,95.0,76,B,Dr. Sharma,Block A,2.6,10,31,No,106522,Placed
+STU0133,Student_133,MBA,Python,1,82.81,57,D,Dr. Sharma,Lab 2,6.2,42,24,No,99243,Placed
+STU0134,Student_134,Civil,DBMS,5,74.55,87,B,Dr. Sharma,Block B,9.4,14,8,No,119378,Placed
+STU0135,Student_135,ECE,Data Science,8,66.39,40,D,Dr. Sharma,Block B,6.2,37,33,No,30798,Placed
+STU0136,Student_136,EEE,DBMS,8,61.89,80,B,Dr. Kumar,Lab 1,6.2,10,5,Yes,54775,Not Placed
+STU0137,Student_137,ECE,Python,5,82.26,83,B,Dr. Kumar,Lab 1,8.9,1,27,Yes,39194,Not Placed
+STU0138,Student_138,Civil,Python,2,94.87,67,C,Dr. Sharma,Lab 1,7.3,27,25,No,53254,Placed
+STU0139,Student_139,CSE,Networks,7,69.19,41,D,Prof. Reddy,Block A,1.8,27,28,Yes,50050,Not Placed
+STU0140,Student_140,Mechanical,Python,2,63.12,89,B,Prof. Rao,Lab 1,1.3,24,12,Yes,34042,Placed
+STU0141,Student_141,EEE,Data Science,5,78.05,67,C,Dr. Kumar,Block B,5.2,31,38,Yes,77198,Placed
+STU0142,Student_142,EEE,Python,6,74.74,93,A,Dr. Sharma,Block B,9.1,18,16,Yes,96349,Not Placed
+STU0143,Student_143,Civil,AI,8,73.77,73,C,Dr. Sharma,Block A,3.8,18,4,No,27600,Placed
+STU0144,Student_144,EEE,AI,2,68.37,95,A,Dr. Kumar,Lab 1,5.2,7,28,No,107717,Not Placed
+STU0145,Student_145,MBA,Management,8,85.78,65,C,Dr. Sharma,Lab 2,1.6,33,5,No,45978,Placed
+STU0146,Student_146,EEE,Python,7,60.76,67,C,Dr. Sharma,Block A,1.2,3,33,Yes,72771,Placed
+STU0147,Student_147,Mechanical,Data Science,6,79.55,85,B,Prof. Rao,Block B,5.2,44,3,No,92248,Not Placed
+STU0148,Student_148,CSE,Networks,2,84.05,54,D,Prof. Rao,Block B,6.4,41,14,Yes,92861,Not Placed
+STU0149,Student_149,ECE,DBMS,7,64.48,78,B,Dr. Sharma,Block A,9.3,48,35,Yes,47014,Placed
+STU0150,Student_150,MBA,Data Science,2,93.3,89,B,Dr. Sharma,Block B,8.5,39,8,Yes,81476,Not Placed
+STU0151,Student_151,Mechanical,Management,3,78.97,63,C,Prof. Reddy,Block A,4.6,23,31,No,80552,Placed
+STU0152,Student_152,EEE,DBMS,3,84.43,55,D,Prof. Rao,Lab 1,9.1,10,27,No,57940,Placed
+STU0153,Student_153,MBA,Python,6,60.35,74,C,Dr. Kumar,Lab 1,2.2,13,17,No,47771,Not Placed
+STU0154,Student_154,MBA,AI,2,74.73,67,C,Prof. Rao,Lab 2,5.6,20,19,Yes,83616,Placed
+STU0155,Student_155,ECE,Data Science,6,94.85,71,C,Dr. Sharma,Lab 2,7.5,30,18,Yes,82472,Not Placed
+STU0156,Student_156,CSE,Management,5,71.28,74,C,Prof. Rao,Lab 2,10.0,47,19,No,50354,Placed
+STU0157,Student_157,Civil,Data Science,5,62.4,93,A,Dr. Sharma,Lab 1,7.7,28,5,Yes,73479,Placed
+STU0158,Student_158,EEE,Management,7,98.63,46,D,Dr. Kumar,Lab 1,9.7,29,34,Yes,47227,Placed
+STU0159,Student_159,ECE,Python,4,93.97,89,B,Prof. Reddy,Block A,5.4,14,5,Yes,68727,Not Placed
+STU0160,Student_160,CSE,Data Science,8,98.39,86,B,Prof. Reddy,Block A,3.5,21,19,Yes,83666,Placed
+STU0161,Student_161,MBA,Data Science,5,61.45,97,A,Dr. Kumar,Block B,3.9,21,21,Yes,50799,Not Placed
+STU0162,Student_162,ECE,Networks,8,86.29,86,B,Dr. Sharma,Lab 2,4.1,37,33,Yes,75503,Not Placed
+STU0163,Student_163,Mechanical,Python,3,73.38,37,F,Dr. Sharma,Lab 2,4.8,31,40,No,56660,Placed
+STU0164,Student_164,EEE,DBMS,1,65.54,39,F,Dr. Sharma,Lab 1,4.0,5,37,No,78767,Placed
+STU0165,Student_165,ECE,Networks,6,85.83,68,C,Dr. Sharma,Block A,8.4,49,34,No,100854,Placed
+STU0166,Student_166,Civil,Networks,2,93.28,91,A,Dr. Sharma,Lab 1,4.7,13,9,No,73823,Not Placed
+STU0167,Student_167,Mechanical,Management,4,81.05,99,A,Prof. Reddy,Block A,8.8,29,15,Yes,20245,Placed
+STU0168,Student_168,Civil,Python,6,92.65,74,C,Dr. Kumar,Block A,7.8,46,4,No,90476,Not Placed
+STU0169,Student_169,Civil,Networks,6,72.22,94,A,Prof. Rao,Block A,6.3,37,13,Yes,28004,Not Placed
+STU0170,Student_170,CSE,Data Science,1,61.08,63,C,Dr. Sharma,Lab 1,3.3,45,33,No,39957,Placed
+STU0171,Student_171,EEE,AI,3,99.31,37,F,Prof. Rao,Block B,4.6,45,13,Yes,29641,Not Placed
+STU0172,Student_172,CSE,AI,4,60.06,38,F,Prof. Rao,Block B,2.4,6,8,No,78545,Placed
+STU0173,Student_173,ECE,DBMS,2,95.25,61,C,Dr. Kumar,Block A,8.7,29,6,No,74233,Not Placed
+STU0174,Student_174,MBA,Data Science,2,97.26,52,D,Prof. Rao,Lab 1,1.2,44,20,No,72508,Not Placed
+STU0175,Student_175,Civil,AI,5,83.68,40,D,Dr. Sharma,Lab 2,3.5,33,5,Yes,50204,Placed
+STU0176,Student_176,ECE,Management,8,85.19,59,D,Prof. Reddy,Lab 2,2.8,24,18,No,81662,Not Placed
+STU0177,Student_177,ECE,Management,6,67.24,54,D,Prof. Reddy,Lab 1,8.3,48,35,No,79036,Not Placed
+STU0178,Student_178,ECE,AI,4,75.44,97,A,Dr. Kumar,Block A,4.8,39,9,No,88431,Not Placed
+STU0179,Student_179,ECE,AI,2,89.4,52,D,Prof. Rao,Lab 1,2.6,20,13,Yes,60101,Placed
+STU0180,Student_180,EEE,Data Science,7,77.86,73,C,Prof. Reddy,Block A,3.9,14,11,No,59293,Not Placed
+STU0181,Student_181,CSE,AI,2,79.72,66,C,Dr. Kumar,Block B,1.6,41,12,Yes,37123,Not Placed
+STU0182,Student_182,ECE,Data Science,3,75.79,68,C,Dr. Kumar,Lab 2,8.1,29,39,Yes,73591,Placed
+STU0183,Student_183,CSE,Management,4,61.69,39,F,Prof. Rao,Block B,7.5,10,9,Yes,57391,Placed
+STU0184,Student_184,ECE,AI,8,97.86,68,C,Prof. Rao,Block B,7.8,41,3,Yes,73308,Not Placed
+STU0185,Student_185,CSE,Networks,3,65.27,89,B,Prof. Reddy,Block B,6.0,46,1,Yes,95951,Placed
+STU0186,Student_186,ECE,Python,6,87.0,41,D,Dr. Sharma,Block A,5.6,26,2,Yes,70532,Not Placed
+STU0187,Student_187,Civil,Management,2,70.67,79,B,Dr. Kumar,Lab 1,2.0,43,2,No,57735,Placed
+STU0188,Student_188,Mechanical,Management,8,65.92,54,D,Prof. Rao,Block A,7.4,43,2,No,75605,Not Placed
+STU0189,Student_189,EEE,DBMS,4,70.43,50,D,Dr. Kumar,Block A,5.1,46,4,Yes,114521,Placed
+STU0190,Student_190,CSE,DBMS,7,71.89,97,A,Dr. Kumar,Block A,3.6,35,31,No,91123,Not Placed
+STU0191,Student_191,Civil,Management,1,74.25,61,C,Prof. Rao,Lab 2,2.8,8,32,Yes,21474,Not Placed
+STU0192,Student_192,EEE,Python,1,90.71,50,D,Dr. Sharma,Lab 1,3.7,34,6,No,31106,Placed
+STU0193,Student_193,CSE,DBMS,3,88.13,66,C,Dr. Sharma,Block A,3.2,17,35,Yes,57100,Not Placed
+STU0194,Student_194,MBA,Networks,5,92.73,62,C,Dr. Kumar,Lab 2,7.0,10,34,No,114402,Placed
+STU0195,Student_195,Mechanical,DBMS,8,71.23,55,D,Dr. Sharma,Block A,2.3,30,4,No,23845,Not Placed
+STU0196,Student_196,Civil,AI,4,93.15,72,C,Prof. Reddy,Lab 1,9.6,23,12,No,78386,Not Placed
+STU0197,Student_197,MBA,Management,1,81.51,89,B,Prof. Reddy,Lab 1,6.8,20,38,No,68880,Placed
+STU0198,Student_198,ECE,Networks,3,89.71,54,D,Prof. Reddy,Lab 1,4.8,4,32,Yes,62355,Placed
+STU0199,Student_199,EEE,AI,3,60.86,76,B,Prof. Rao,Block A,5.7,17,15,Yes,60311,Not Placed
+STU0200,Student_200,CSE,AI,2,99.48,47,D,Prof. Rao,Lab 2,1.7,12,34,No,28689,Not Placed
+STU0201,Student_201,CSE,DBMS,6,77.61,57,D,Dr. Kumar,Lab 2,9.6,42,26,No,44559,Not Placed
+STU0202,Student_202,MBA,Management,6,63.23,65,C,Prof. Rao,Lab 1,7.8,31,4,Yes,24365,Not Placed
+STU0203,Student_203,ECE,DBMS,2,63.18,53,D,Prof. Reddy,Lab 2,1.6,44,1,Yes,62286,Placed
+STU0204,Student_204,MBA,Networks,8,76.41,45,D,Prof. Rao,Lab 1,6.2,39,24,Yes,63774,Not Placed
+STU0205,Student_205,EEE,Data Science,8,65.24,88,B,Prof. Rao,Lab 1,3.7,28,25,No,49810,Placed
+STU0206,Student_206,CSE,Data Science,6,81.37,89,B,Prof. Rao,Block B,9.3,15,30,Yes,50671,Placed
+STU0207,Student_207,Civil,AI,4,61.79,95,A,Prof. Reddy,Block B,8.0,23,6,Yes,100151,Placed
+STU0208,Student_208,EEE,DBMS,8,70.82,83,B,Prof. Rao,Block A,3.3,22,31,No,27571,Not Placed
+STU0209,Student_209,Mechanical,DBMS,3,95.14,91,A,Prof. Rao,Block B,9.3,22,23,Yes,44542,Placed
+STU0210,Student_210,EEE,Management,8,64.65,100,A,Dr. Kumar,Block B,3.6,10,25,No,20280,Not Placed
+STU0211,Student_211,CSE,DBMS,4,80.89,49,D,Prof. Reddy,Lab 1,3.8,46,19,Yes,31273,Placed
+STU0212,Student_212,ECE,Python,4,93.2,90,A,Prof. Rao,Block B,5.5,5,27,No,47823,Placed
+STU0213,Student_213,Mechanical,Management,2,78.31,92,A,Prof. Reddy,Lab 1,4.8,42,34,Yes,119648,Placed
+STU0214,Student_214,MBA,Management,1,85.11,90,A,Prof. Rao,Lab 2,8.3,9,25,No,94864,Placed
+STU0215,Student_215,MBA,Data Science,1,82.39,46,D,Prof. Rao,Block A,7.8,30,32,No,22249,Not Placed
+STU0216,Student_216,Mechanical,Management,6,88.71,86,B,Prof. Reddy,Block A,4.4,3,17,No,89745,Not Placed
+STU0217,Student_217,ECE,Management,7,66.6,68,C,Prof. Reddy,Lab 1,9.5,22,29,Yes,25114,Placed
+STU0218,Student_218,EEE,Networks,8,60.86,42,D,Prof. Reddy,Lab 2,5.1,23,10,No,25526,Not Placed
+STU0219,Student_219,MBA,Data Science,4,89.5,87,B,Dr. Sharma,Block A,3.0,24,20,Yes,74522,Not Placed
+STU0220,Student_220,Civil,Networks,5,86.95,79,B,Prof. Reddy,Block B,4.0,28,25,No,117656,Placed
+STU0221,Student_221,MBA,Management,1,87.91,74,C,Dr. Sharma,Lab 2,9.9,20,16,No,84198,Placed
+STU0222,Student_222,Civil,Management,8,64.56,100,A,Prof. Rao,Block B,3.9,48,25,No,41814,Not Placed
+STU0223,Student_223,Civil,Management,7,64.29,41,D,Dr. Kumar,Block B,2.8,24,31,Yes,90783,Not Placed
+STU0224,Student_224,MBA,Management,6,82.74,94,A,Dr. Kumar,Lab 2,8.9,5,33,Yes,65377,Not Placed
+STU0225,Student_225,CSE,DBMS,5,89.69,98,A,Prof. Rao,Block A,7.3,8,13,Yes,30554,Placed
+STU0226,Student_226,MBA,Networks,5,62.81,39,F,Prof. Reddy,Block B,7.2,37,33,Yes,86033,Not Placed
+STU0227,Student_227,Mechanical,DBMS,3,63.5,71,C,Dr. Kumar,Lab 1,6.5,15,37,No,78544,Placed
+STU0228,Student_228,EEE,Data Science,8,65.02,75,B,Dr. Sharma,Lab 2,7.7,29,28,No,58178,Placed
+STU0229,Student_229,MBA,Networks,1,75.61,100,A,Dr. Kumar,Lab 1,8.0,48,16,Yes,100266,Placed
+STU0230,Student_230,CSE,Data Science,4,69.0,39,F,Prof. Reddy,Block B,4.9,49,4,No,79960,Placed
+STU0231,Student_231,EEE,Python,4,86.82,81,B,Dr. Kumar,Lab 2,7.5,8,14,No,40052,Placed
+STU0232,Student_232,MBA,Python,1,66.75,37,F,Prof. Reddy,Block B,1.5,22,1,Yes,112546,Not Placed
+STU0233,Student_233,ECE,Management,2,65.89,48,D,Prof. Rao,Lab 2,4.8,13,29,Yes,117947,Not Placed
+STU0234,Student_234,EEE,AI,7,82.72,89,B,Dr. Kumar,Lab 2,7.3,46,1,No,37756,Not Placed
+STU0235,Student_235,CSE,DBMS,3,99.64,98,A,Dr. Kumar,Block B,9.4,14,31,No,68430,Placed
+STU0236,Student_236,CSE,Management,1,69.21,62,C,Dr. Kumar,Lab 2,2.3,32,19,Yes,28561,Not Placed
+STU0237,Student_237,Civil,AI,5,92.49,39,F,Dr. Sharma,Block A,1.3,43,35,Yes,105759,Not Placed
+STU0238,Student_238,CSE,Management,1,82.09,43,D,Dr. Sharma,Block B,1.4,18,7,Yes,90904,Placed
+STU0239,Student_239,Mechanical,Networks,5,82.0,94,A,Dr. Kumar,Lab 2,3.8,31,11,Yes,49553,Not Placed
+STU0240,Student_240,Mechanical,Python,8,72.67,83,B,Prof. Rao,Block B,3.6,6,32,No,28159,Not Placed
+STU0241,Student_241,ECE,Data Science,7,62.47,68,C,Dr. Kumar,Block A,8.8,37,21,Yes,42922,Not Placed
+STU0242,Student_242,Mechanical,AI,3,85.09,65,C,Dr. Sharma,Block B,2.6,44,33,No,114685,Placed
+STU0243,Student_243,EEE,Data Science,1,89.13,81,B,Dr. Kumar,Block A,1.5,16,18,Yes,79923,Placed
+STU0244,Student_244,EEE,Networks,3,81.35,86,B,Prof. Reddy,Block B,4.0,41,19,Yes,109175,Not Placed
+STU0245,Student_245,ECE,Data Science,3,68.12,92,A,Prof. Rao,Block A,7.3,10,40,No,102603,Not Placed
+STU0246,Student_246,Mechanical,AI,6,63.55,83,B,Dr. Kumar,Block A,2.4,9,26,No,59162,Not Placed
+STU0247,Student_247,EEE,Data Science,6,76.12,44,D,Prof. Rao,Lab 1,5.4,29,12,No,60234,Placed
+STU0248,Student_248,ECE,AI,2,79.86,54,D,Prof. Rao,Lab 1,5.3,22,21,No,76556,Placed
+STU0249,Student_249,EEE,Data Science,6,69.76,87,B,Prof. Reddy,Lab 1,3.2,12,5,No,34025,Not Placed
+STU0250,Student_250,CSE,Management,6,96.26,75,B,Prof. Reddy,Block A,7.0,31,8,No,70177,Placed
+STU0251,Student_251,CSE,Networks,6,95.34,78,B,Dr. Sharma,Block B,8.9,30,35,Yes,44253,Placed
+STU0252,Student_252,EEE,Management,7,95.9,38,F,Prof. Reddy,Lab 1,5.9,39,38,No,115029,Not Placed
+STU0253,Student_253,ECE,AI,5,61.96,89,B,Dr. Kumar,Block B,9.6,21,21,No,28929,Placed
+STU0254,Student_254,EEE,Data Science,1,99.27,75,B,Dr. Sharma,Block A,8.1,30,15,Yes,86134,Not Placed
+STU0255,Student_255,CSE,Data Science,6,93.33,35,F,Dr. Kumar,Lab 1,8.0,13,36,No,66388,Placed
+STU0256,Student_256,CSE,AI,5,60.5,73,C,Dr. Kumar,Block B,5.5,15,11,Yes,22923,Placed
+STU0257,Student_257,CSE,AI,1,70.22,86,B,Prof. Reddy,Block A,3.7,2,8,Yes,42530,Placed
+STU0258,Student_258,Mechanical,Python,1,79.8,91,A,Prof. Reddy,Block B,1.2,35,12,No,90564,Placed
+STU0259,Student_259,MBA,DBMS,6,81.34,58,D,Dr. Kumar,Block B,9.3,6,1,No,22241,Not Placed
+STU0260,Student_260,MBA,Networks,4,80.85,48,D,Dr. Kumar,Block A,6.8,28,3,Yes,85845,Not Placed
+STU0261,Student_261,MBA,Python,8,65.96,83,B,Dr. Kumar,Block A,2.5,27,37,No,82268,Placed
+STU0262,Student_262,Civil,Management,5,93.69,65,C,Dr. Kumar,Lab 2,4.9,24,6,Yes,77824,Placed
+STU0263,Student_263,Mechanical,DBMS,3,72.16,80,B,Prof. Rao,Lab 2,9.1,25,25,No,53640,Not Placed
+STU0264,Student_264,EEE,Networks,1,87.14,49,D,Dr. Kumar,Block A,5.2,49,7,Yes,62182,Not Placed
+STU0265,Student_265,CSE,Networks,2,62.76,47,D,Prof. Rao,Block A,1.2,2,15,Yes,30314,Not Placed
+STU0266,Student_266,Civil,Networks,3,67.33,91,A,Prof. Rao,Lab 2,2.2,11,38,Yes,103967,Not Placed
+STU0267,Student_267,MBA,Management,1,88.99,62,C,Dr. Sharma,Block B,6.2,36,27,Yes,21093,Not Placed
+STU0268,Student_268,ECE,Data Science,5,97.7,78,B,Prof. Reddy,Lab 2,9.2,26,14,No,95665,Placed
+STU0269,Student_269,Mechanical,Data Science,3,93.34,99,A,Prof. Rao,Lab 1,5.9,2,35,No,74850,Not Placed
+STU0270,Student_270,EEE,AI,1,71.19,35,F,Dr. Sharma,Block A,5.0,9,40,Yes,41076,Not Placed
+STU0271,Student_271,ECE,AI,7,96.5,65,C,Dr. Kumar,Lab 2,2.0,24,40,No,61024,Not Placed
+STU0272,Student_272,EEE,Management,6,80.91,39,F,Dr. Kumar,Block B,9.4,19,24,Yes,71451,Not Placed
+STU0273,Student_273,Civil,Networks,6,95.61,59,D,Prof. Reddy,Block B,1.6,24,14,Yes,70665,Placed
+STU0274,Student_274,Civil,DBMS,2,94.41,98,A,Dr. Sharma,Lab 2,1.8,32,9,No,93910,Placed
+STU0275,Student_275,CSE,Networks,8,66.59,73,C,Prof. Rao,Lab 2,4.8,23,18,Yes,91914,Placed
+STU0276,Student_276,MBA,DBMS,3,86.53,94,A,Dr. Sharma,Block B,7.6,39,1,Yes,54772,Not Placed
+STU0277,Student_277,Civil,DBMS,1,82.2,91,A,Prof. Rao,Block B,9.6,2,20,Yes,31963,Not Placed
+STU0278,Student_278,Civil,Data Science,3,63.76,90,A,Prof. Rao,Lab 2,2.8,21,25,No,43802,Placed
+STU0279,Student_279,Mechanical,Data Science,5,81.52,51,D,Prof. Reddy,Block B,8.8,21,20,Yes,103488,Not Placed
+STU0280,Student_280,CSE,AI,3,89.25,64,C,Dr. Kumar,Lab 1,5.1,23,24,Yes,31138,Not Placed
+STU0281,Student_281,CSE,Networks,5,83.03,63,C,Prof. Rao,Lab 2,1.6,26,19,Yes,45368,Placed
+STU0282,Student_282,MBA,Networks,5,98.22,94,A,Dr. Sharma,Lab 1,4.2,2,29,No,87353,Placed
+STU0283,Student_283,ECE,AI,2,94.0,94,A,Dr. Sharma,Block A,1.8,2,30,No,61422,Not Placed
+STU0284,Student_284,ECE,AI,3,61.57,94,A,Dr. Sharma,Block B,9.5,13,9,No,119281,Placed
+STU0285,Student_285,CSE,Networks,4,87.36,39,F,Dr. Kumar,Block A,4.4,23,22,No,83008,Not Placed
+STU0286,Student_286,EEE,Python,4,97.02,64,C,Dr. Kumar,Block B,9.1,19,15,Yes,88959,Not Placed
+STU0287,Student_287,Mechanical,Python,3,84.03,55,D,Prof. Reddy,Lab 1,1.1,46,33,Yes,85347,Placed
+STU0288,Student_288,CSE,Management,7,81.31,46,D,Prof. Rao,Lab 2,6.1,37,13,No,54242,Not Placed
+STU0289,Student_289,Civil,AI,6,71.73,80,B,Dr. Kumar,Block A,1.3,36,36,Yes,99828,Placed
+STU0290,Student_290,Mechanical,Data Science,4,66.55,75,B,Prof. Rao,Lab 1,5.6,13,32,Yes,83102,Placed
+STU0291,Student_291,EEE,Management,8,86.4,85,B,Dr. Sharma,Block B,9.4,17,2,Yes,22098,Placed
+STU0292,Student_292,MBA,DBMS,4,68.03,85,B,Dr. Kumar,Lab 1,2.2,11,24,No,119169,Not Placed
+STU0293,Student_293,Civil,Management,3,90.77,64,C,Dr. Sharma,Lab 2,9.7,16,20,Yes,77771,Not Placed
+STU0294,Student_294,Mechanical,Python,8,92.6,67,C,Dr. Kumar,Lab 1,7.1,49,15,Yes,108298,Placed
+STU0295,Student_295,Civil,Data Science,4,70.5,69,C,Prof. Reddy,Block B,9.2,29,21,Yes,97681,Placed
+STU0296,Student_296,Civil,Data Science,1,71.24,63,C,Prof. Reddy,Lab 2,9.1,21,20,Yes,57853,Not Placed
+STU0297,Student_297,EEE,DBMS,6,74.13,73,C,Dr. Sharma,Block A,6.0,47,32,Yes,58471,Placed
+STU0298,Student_298,ECE,Management,4,77.11,94,A,Dr. Kumar,Lab 1,6.0,3,11,Yes,93417,Placed
+STU0299,Student_299,Mechanical,DBMS,1,70.53,91,A,Prof. Rao,Lab 2,7.2,34,28,Yes,118203,Placed
+STU0300,Student_300,Civil,Management,2,77.2,36,F,Prof. Rao,Block B,4.1,21,10,No,78160,Placed
+STU0301,Student_301,MBA,Management,2,88.03,67,C,Prof. Reddy,Lab 2,1.3,20,25,No,22088,Not Placed
+STU0302,Student_302,MBA,DBMS,2,86.7,56,D,Prof. Rao,Lab 1,7.3,37,31,Yes,80942,Placed
+STU0303,Student_303,EEE,Data Science,8,63.01,86,B,Prof. Rao,Block B,4.5,36,28,Yes,30029,Placed
+STU0304,Student_304,ECE,Python,4,70.17,64,C,Prof. Rao,Lab 1,7.4,32,36,Yes,51820,Placed
+STU0305,Student_305,MBA,Networks,1,60.9,91,A,Prof. Reddy,Block A,9.6,8,2,No,58290,Not Placed
+STU0306,Student_306,CSE,Networks,2,62.16,75,B,Dr. Kumar,Block B,3.0,1,30,Yes,103655,Placed
+STU0307,Student_307,EEE,AI,3,94.43,55,D,Prof. Rao,Lab 1,9.5,50,35,No,107716,Placed
+STU0308,Student_308,MBA,Python,2,96.14,42,D,Prof. Reddy,Block B,3.0,28,12,Yes,61857,Placed
+STU0309,Student_309,CSE,DBMS,7,78.56,68,C,Dr. Kumar,Lab 2,1.8,12,23,No,75282,Placed
+STU0310,Student_310,CSE,DBMS,4,81.33,97,A,Dr. Sharma,Lab 1,8.4,9,33,No,77445,Not Placed
+STU0311,Student_311,Mechanical,DBMS,8,65.96,64,C,Dr. Sharma,Block B,3.8,12,12,Yes,85306,Placed
+STU0312,Student_312,MBA,Networks,6,98.49,91,A,Dr. Kumar,Block A,5.9,48,22,Yes,78773,Not Placed
+STU0313,Student_313,EEE,DBMS,8,78.89,74,C,Dr. Sharma,Lab 1,6.7,28,19,No,75834,Not Placed
+STU0314,Student_314,Mechanical,Python,7,90.59,83,B,Prof. Reddy,Lab 1,4.7,24,15,No,46250,Placed
+STU0315,Student_315,Civil,Management,8,63.04,78,B,Prof. Reddy,Lab 1,5.1,11,35,Yes,117054,Placed
+STU0316,Student_316,Mechanical,DBMS,5,68.64,61,C,Prof. Rao,Lab 1,9.4,47,13,Yes,87271,Not Placed
+STU0317,Student_317,Mechanical,Python,7,64.89,94,A,Dr. Sharma,Block A,5.1,15,38,No,107518,Placed
+STU0318,Student_318,Civil,Management,1,95.02,94,A,Dr. Sharma,Block B,9.5,33,1,Yes,73965,Not Placed
+STU0319,Student_319,EEE,Management,1,76.17,70,C,Dr. Sharma,Block A,2.5,32,40,No,99740,Not Placed
+STU0320,Student_320,MBA,Networks,8,79.63,46,D,Prof. Reddy,Lab 1,4.7,38,39,Yes,59862,Not Placed
+STU0321,Student_321,Mechanical,Data Science,2,88.74,46,D,Dr. Kumar,Lab 2,3.9,28,29,Yes,114561,Not Placed
+STU0322,Student_322,EEE,Networks,6,61.78,38,F,Dr. Sharma,Lab 1,8.0,38,3,Yes,94928,Not Placed
+STU0323,Student_323,EEE,Networks,2,71.9,98,A,Prof. Reddy,Lab 1,7.5,26,32,Yes,40878,Placed
+STU0324,Student_324,CSE,Networks,7,73.1,64,C,Prof. Rao,Lab 1,8.9,2,1,Yes,103546,Not Placed
+STU0325,Student_325,EEE,Networks,5,84.96,60,C,Dr. Sharma,Block B,1.6,4,38,No,27232,Not Placed
+STU0326,Student_326,Mechanical,DBMS,7,93.63,86,B,Dr. Sharma,Lab 2,5.2,37,37,No,83026,Placed
+STU0327,Student_327,EEE,AI,1,72.98,42,D,Prof. Reddy,Lab 2,7.1,43,34,Yes,109694,Not Placed
+STU0328,Student_328,CSE,Management,3,73.33,39,F,Prof. Reddy,Lab 2,4.2,30,16,Yes,117877,Not Placed
+STU0329,Student_329,MBA,Management,5,78.84,82,B,Prof. Reddy,Lab 2,8.7,50,12,Yes,57346,Not Placed
+STU0330,Student_330,EEE,AI,2,75.36,54,D,Dr. Kumar,Lab 2,9.7,36,37,Yes,35542,Not Placed
+STU0331,Student_331,ECE,Data Science,8,71.87,87,B,Dr. Kumar,Block A,5.7,36,1,Yes,66069,Placed
+STU0332,Student_332,Civil,Python,7,77.14,74,C,Prof. Rao,Block A,1.5,32,13,Yes,112754,Placed
+STU0333,Student_333,ECE,Python,5,98.03,43,D,Dr. Sharma,Lab 2,2.9,43,28,No,113784,Placed
+STU0334,Student_334,ECE,Data Science,4,67.46,76,B,Prof. Rao,Lab 2,9.9,19,9,Yes,116666,Placed
+STU0335,Student_335,MBA,Python,4,87.19,50,D,Dr. Sharma,Block A,6.2,34,31,Yes,55826,Not Placed
+STU0336,Student_336,Mechanical,Python,2,66.01,70,C,Dr. Kumar,Block A,8.7,47,39,Yes,59917,Placed
+STU0337,Student_337,Mechanical,Python,8,61.86,37,F,Dr. Kumar,Block B,3.1,3,25,No,64801,Placed
+STU0338,Student_338,CSE,Data Science,1,88.51,36,F,Dr. Kumar,Block A,1.5,10,4,Yes,79351,Placed
+STU0339,Student_339,CSE,Python,1,89.34,53,D,Prof. Rao,Block B,4.2,27,36,No,39109,Placed
+STU0340,Student_340,Mechanical,AI,5,73.92,63,C,Dr. Kumar,Block A,6.8,31,24,Yes,99578,Placed
+STU0341,Student_341,EEE,AI,4,84.05,38,F,Prof. Rao,Block A,8.0,10,35,Yes,77410,Not Placed
+STU0342,Student_342,Mechanical,Management,7,90.47,52,D,Prof. Reddy,Lab 2,5.9,13,31,No,46810,Placed
+STU0343,Student_343,EEE,Networks,2,96.89,74,C,Prof. Rao,Block A,8.1,23,32,Yes,62481,Placed
+STU0344,Student_344,Mechanical,Networks,4,72.27,64,C,Dr. Kumar,Block B,4.3,37,26,No,61842,Placed
+STU0345,Student_345,Civil,AI,2,70.52,96,A,Dr. Kumar,Lab 2,5.1,12,9,No,92154,Placed
+STU0346,Student_346,MBA,Data Science,4,80.05,56,D,Dr. Kumar,Lab 1,7.0,45,9,No,94998,Not Placed
+STU0347,Student_347,ECE,AI,7,74.23,93,A,Dr. Sharma,Lab 2,2.1,8,33,Yes,61161,Not Placed
+STU0348,Student_348,Mechanical,Data Science,1,82.87,84,B,Dr. Sharma,Block B,1.9,28,4,Yes,57437,Placed
+STU0349,Student_349,Civil,AI,3,86.64,84,B,Prof. Rao,Block A,8.6,15,18,No,118812,Placed
+STU0350,Student_350,CSE,DBMS,8,98.59,92,A,Dr. Kumar,Block B,8.4,1,14,No,52661,Not Placed
+STU0351,Student_351,ECE,Management,5,86.15,35,F,Prof. Rao,Lab 1,2.7,42,35,Yes,56126,Placed
+STU0352,Student_352,ECE,DBMS,8,99.73,73,C,Dr. Sharma,Lab 2,1.4,40,22,Yes,77934,Not Placed
+STU0353,Student_353,ECE,DBMS,4,66.41,42,D,Dr. Sharma,Block A,5.8,38,29,No,75044,Not Placed
+STU0354,Student_354,Civil,Networks,7,65.73,65,C,Dr. Kumar,Block B,8.9,2,24,Yes,34245,Not Placed
+STU0355,Student_355,MBA,AI,4,84.52,81,B,Dr. Kumar,Lab 1,3.5,34,37,No,83020,Not Placed
+STU0356,Student_356,CSE,Management,5,80.66,49,D,Prof. Rao,Lab 1,5.5,36,33,Yes,66295,Not Placed
+STU0357,Student_357,MBA,Networks,1,99.14,45,D,Prof. Reddy,Lab 1,4.5,2,21,No,105150,Placed
+STU0358,Student_358,CSE,AI,7,80.48,98,A,Prof. Rao,Block A,7.9,19,31,No,79178,Placed
+STU0359,Student_359,MBA,Management,3,90.07,38,F,Prof. Reddy,Block B,8.5,34,1,Yes,78489,Placed
+STU0360,Student_360,ECE,Management,7,71.96,40,D,Prof. Reddy,Block B,1.1,14,23,Yes,33473,Not Placed
+STU0361,Student_361,Civil,AI,8,64.9,58,D,Prof. Reddy,Lab 2,6.0,43,6,No,106863,Not Placed
+STU0362,Student_362,Mechanical,Python,1,96.41,77,B,Prof. Reddy,Lab 2,2.6,48,10,No,89640,Placed
+STU0363,Student_363,Mechanical,AI,5,93.44,60,C,Prof. Rao,Block A,8.2,17,21,Yes,109922,Placed
+STU0364,Student_364,MBA,Networks,7,65.09,94,A,Dr. Sharma,Lab 2,2.4,3,30,No,55943,Not Placed
+STU0365,Student_365,ECE,Management,4,61.05,66,C,Prof. Rao,Lab 1,1.4,7,17,No,116076,Not Placed
+STU0366,Student_366,EEE,Python,6,88.88,43,D,Prof. Reddy,Lab 2,3.4,13,30,No,87773,Placed
+STU0367,Student_367,MBA,Data Science,3,88.61,42,D,Prof. Rao,Block B,5.5,13,14,Yes,36565,Not Placed
+STU0368,Student_368,Mechanical,Python,4,95.91,79,B,Dr. Kumar,Block B,6.4,3,18,No,108685,Not Placed
+STU0369,Student_369,EEE,Networks,6,79.11,36,F,Prof. Rao,Lab 2,8.8,3,22,Yes,36767,Placed
+STU0370,Student_370,Mechanical,Python,4,96.33,89,B,Dr. Kumar,Block B,5.4,21,15,Yes,42779,Not Placed
+STU0371,Student_371,Mechanical,AI,7,91.65,90,A,Prof. Reddy,Lab 2,6.7,2,35,No,28633,Not Placed
+STU0372,Student_372,EEE,Management,6,83.83,85,B,Prof. Rao,Lab 2,5.0,9,5,Yes,88791,Not Placed
+STU0373,Student_373,ECE,Networks,4,79.13,46,D,Dr. Kumar,Block B,6.1,22,13,No,20519,Not Placed
+STU0374,Student_374,EEE,Python,5,70.12,48,D,Prof. Rao,Block B,3.2,15,39,No,71831,Not Placed
+STU0375,Student_375,Mechanical,Python,3,81.78,95,A,Prof. Rao,Block A,2.2,12,23,No,51060,Placed
+STU0376,Student_376,MBA,Networks,3,94.88,80,B,Prof. Reddy,Lab 2,9.3,1,35,Yes,54187,Placed
+STU0377,Student_377,Civil,DBMS,4,64.67,35,F,Prof. Rao,Lab 2,1.5,29,27,No,110761,Not Placed
+STU0378,Student_378,EEE,AI,6,65.78,82,B,Dr. Sharma,Block B,7.8,35,36,Yes,80560,Not Placed
+STU0379,Student_379,EEE,Networks,5,61.19,66,C,Prof. Reddy,Lab 1,9.8,19,18,No,106752,Not Placed
+STU0380,Student_380,Mechanical,Management,3,68.56,51,D,Dr. Kumar,Block A,10.0,3,26,Yes,108204,Placed
+STU0381,Student_381,ECE,Management,5,66.5,87,B,Prof. Rao,Block B,3.1,35,4,No,71080,Not Placed
+STU0382,Student_382,MBA,DBMS,6,87.14,53,D,Prof. Rao,Lab 2,8.1,37,14,No,83004,Placed
+STU0383,Student_383,MBA,Python,6,78.16,75,B,Dr. Kumar,Block A,3.2,42,22,No,52062,Not Placed
+STU0384,Student_384,Civil,Networks,5,76.9,70,C,Dr. Sharma,Block B,9.2,36,32,No,87989,Not Placed
+STU0385,Student_385,Civil,AI,8,82.36,67,C,Prof. Rao,Block B,9.6,41,19,No,50192,Placed
+STU0386,Student_386,Mechanical,Python,8,66.25,42,D,Dr. Sharma,Block B,4.7,36,7,Yes,103850,Not Placed
+STU0387,Student_387,CSE,Python,8,74.89,51,D,Prof. Reddy,Lab 1,4.4,42,40,No,22787,Not Placed
+STU0388,Student_388,Mechanical,Python,7,76.73,54,D,Prof. Reddy,Lab 2,4.6,21,16,No,94924,Not Placed
+STU0389,Student_389,CSE,Networks,3,73.7,89,B,Prof. Rao,Lab 1,3.0,42,19,Yes,39322,Not Placed
+STU0390,Student_390,Mechanical,AI,2,78.32,35,F,Dr. Kumar,Lab 1,2.5,43,10,No,65974,Not Placed
+STU0391,Student_391,Mechanical,Management,6,83.58,69,C,Prof. Reddy,Lab 1,6.0,44,14,No,37529,Placed
+STU0392,Student_392,MBA,Python,5,90.51,55,D,Dr. Sharma,Block B,9.6,35,7,Yes,94705,Placed
+STU0393,Student_393,CSE,Networks,8,96.04,97,A,Prof. Rao,Block A,9.6,47,10,Yes,100598,Not Placed
+STU0394,Student_394,Mechanical,Management,2,67.06,82,B,Dr. Sharma,Block A,9.6,37,13,Yes,40360,Not Placed
+STU0395,Student_395,Civil,AI,1,78.08,92,A,Prof. Rao,Block B,2.3,47,19,Yes,93265,Placed
+STU0396,Student_396,ECE,Data Science,6,88.72,46,D,Prof. Rao,Block A,5.8,34,29,Yes,34238,Not Placed
+STU0397,Student_397,MBA,DBMS,3,76.51,38,F,Dr. Sharma,Lab 2,8.9,24,39,Yes,48721,Not Placed
+STU0398,Student_398,Civil,Networks,6,93.68,56,D,Dr. Kumar,Lab 1,6.2,6,10,No,111957,Placed
+STU0399,Student_399,CSE,Management,7,83.84,91,A,Dr. Sharma,Block B,6.8,15,19,No,91983,Not Placed
+STU0400,Student_400,MBA,Data Science,4,71.18,84,B,Prof. Rao,Block B,6.2,12,15,Yes,28271,Not Placed
+STU0401,Student_401,CSE,DBMS,4,90.49,55,D,Dr. Kumar,Lab 2,6.3,35,31,Yes,56294,Not Placed
+STU0402,Student_402,EEE,Python,8,88.88,70,C,Prof. Reddy,Lab 1,9.2,43,1,No,88656,Not Placed
+STU0403,Student_403,EEE,Data Science,3,74.63,65,C,Dr. Kumar,Lab 1,3.7,29,8,No,48905,Not Placed
+STU0404,Student_404,ECE,Python,8,74.58,82,B,Dr. Sharma,Lab 1,1.3,22,20,Yes,22226,Placed
+STU0405,Student_405,ECE,Python,3,83.44,50,D,Dr. Kumar,Block B,6.0,47,8,No,33801,Placed
+STU0406,Student_406,ECE,DBMS,3,72.21,100,A,Prof. Rao,Lab 1,8.4,26,34,No,108981,Placed
+STU0407,Student_407,ECE,AI,8,67.75,37,F,Dr. Sharma,Lab 2,6.9,10,17,Yes,63331,Not Placed
+STU0408,Student_408,Mechanical,Management,7,89.34,73,C,Prof. Rao,Block B,9.1,29,27,No,64563,Not Placed
+STU0409,Student_409,CSE,Networks,5,62.73,53,D,Prof. Rao,Lab 2,1.9,47,10,No,101284,Placed
+STU0410,Student_410,CSE,AI,5,83.07,83,B,Prof. Rao,Lab 2,7.1,7,14,Yes,85235,Placed
+STU0411,Student_411,MBA,DBMS,7,82.46,66,C,Prof. Rao,Lab 1,1.7,48,12,No,96697,Placed
+STU0412,Student_412,MBA,Networks,5,79.38,63,C,Dr. Kumar,Block B,5.2,5,28,Yes,105618,Placed
+STU0413,Student_413,MBA,Networks,4,80.85,85,B,Dr. Kumar,Lab 2,5.0,38,33,Yes,39479,Not Placed
+STU0414,Student_414,MBA,Management,4,82.47,90,A,Dr. Kumar,Block A,7.7,5,14,Yes,80463,Placed
+STU0415,Student_415,ECE,Management,1,80.36,64,C,Prof. Rao,Block A,1.4,38,2,No,116173,Placed
+STU0416,Student_416,ECE,Python,7,64.04,75,B,Dr. Sharma,Lab 2,8.0,42,19,Yes,58105,Not Placed
+STU0417,Student_417,CSE,Python,2,75.21,99,A,Dr. Kumar,Block A,9.8,20,1,No,59537,Not Placed
+STU0418,Student_418,EEE,Management,8,87.82,65,C,Prof. Rao,Block A,2.5,12,12,Yes,29394,Placed
+STU0419,Student_419,EEE,Python,5,73.65,52,D,Dr. Sharma,Lab 1,6.3,33,19,Yes,61982,Not Placed
+STU0420,Student_420,MBA,Python,1,70.03,42,D,Dr. Sharma,Block B,3.5,36,11,No,59229,Not Placed
+STU0421,Student_421,Mechanical,DBMS,7,83.31,59,D,Dr. Sharma,Block B,1.8,40,37,Yes,113711,Not Placed
+STU0422,Student_422,CSE,Python,4,71.71,83,B,Dr. Kumar,Block B,9.3,42,18,Yes,80426,Not Placed
+STU0423,Student_423,Civil,Python,5,70.57,39,F,Prof. Rao,Block B,9.3,36,11,No,107809,Not Placed
+STU0424,Student_424,Mechanical,Python,6,82.88,92,A,Dr. Kumar,Lab 1,2.6,47,10,No,31637,Placed
+STU0425,Student_425,CSE,Data Science,5,80.45,60,C,Dr. Sharma,Lab 1,8.7,49,30,No,105122,Placed
+STU0426,Student_426,Civil,AI,5,63.36,45,D,Prof. Rao,Block B,6.2,9,6,Yes,118322,Placed
+STU0427,Student_427,MBA,AI,4,66.14,77,B,Dr. Sharma,Lab 2,9.0,25,38,Yes,117537,Not Placed
+STU0428,Student_428,MBA,Networks,6,86.91,92,A,Prof. Reddy,Block B,2.7,3,10,No,24054,Placed
+STU0429,Student_429,ECE,Management,4,74.72,91,A,Prof. Reddy,Block B,3.0,23,8,No,33221,Placed
+STU0430,Student_430,EEE,Management,8,95.57,52,D,Dr. Sharma,Block B,7.0,49,40,Yes,24041,Not Placed
+STU0431,Student_431,Civil,Networks,2,90.73,47,D,Dr. Kumar,Lab 1,4.3,8,7,No,52438,Not Placed
+STU0432,Student_432,ECE,Management,7,71.69,82,B,Dr. Kumar,Lab 1,7.9,27,35,Yes,82238,Placed
+STU0433,Student_433,Civil,DBMS,5,75.13,90,A,Dr. Kumar,Block A,9.6,9,14,No,110288,Placed
+STU0434,Student_434,Mechanical,Data Science,7,61.02,50,D,Dr. Sharma,Lab 1,3.5,24,33,Yes,106509,Placed
+STU0435,Student_435,Civil,Management,1,67.28,47,D,Dr. Sharma,Lab 1,3.9,48,35,No,92859,Not Placed
+STU0436,Student_436,Mechanical,AI,6,92.83,68,C,Dr. Kumar,Lab 1,9.3,45,24,No,112607,Not Placed
+STU0437,Student_437,ECE,Management,7,72.41,99,A,Prof. Reddy,Lab 1,9.4,50,3,Yes,96619,Not Placed
+STU0438,Student_438,CSE,Networks,6,60.21,56,D,Prof. Rao,Lab 2,1.3,27,39,Yes,43648,Not Placed
+STU0439,Student_439,MBA,Management,2,91.34,37,F,Prof. Reddy,Block A,3.9,50,22,Yes,31848,Not Placed
+STU0440,Student_440,Mechanical,AI,4,80.84,59,D,Dr. Kumar,Block B,5.4,17,19,Yes,51440,Placed
+STU0441,Student_441,EEE,Python,5,78.56,52,D,Dr. Kumar,Block A,8.7,17,24,Yes,75795,Placed
+STU0442,Student_442,CSE,Management,8,64.61,81,B,Dr. Kumar,Lab 2,5.1,5,6,No,100168,Not Placed
+STU0443,Student_443,Civil,Data Science,2,64.21,58,D,Dr. Sharma,Block B,7.5,16,5,No,48294,Not Placed
+STU0444,Student_444,MBA,DBMS,3,83.19,47,D,Dr. Sharma,Block A,3.9,46,9,Yes,72987,Placed
+STU0445,Student_445,Civil,AI,3,63.58,59,D,Dr. Sharma,Block B,3.3,32,38,Yes,41534,Not Placed
+STU0446,Student_446,Civil,Data Science,8,85.62,46,D,Prof. Rao,Block A,3.4,47,40,No,69534,Placed
+STU0447,Student_447,MBA,Python,7,82.95,56,D,Prof. Reddy,Lab 2,9.1,47,8,No,111174,Not Placed
+STU0448,Student_448,CSE,Data Science,6,86.84,36,F,Prof. Reddy,Block B,7.6,5,17,No,106020,Placed
+STU0449,Student_449,ECE,Management,4,65.25,91,A,Prof. Reddy,Lab 1,1.5,37,2,Yes,78542,Placed
+STU0450,Student_450,ECE,DBMS,2,61.05,93,A,Prof. Reddy,Block B,7.3,49,10,No,109146,Not Placed
+STU0451,Student_451,CSE,Management,2,69.94,51,D,Dr. Kumar,Block B,6.1,14,13,Yes,91950,Placed
+STU0452,Student_452,Mechanical,AI,8,72.39,63,C,Prof. Reddy,Lab 1,3.3,13,21,Yes,102812,Placed
+STU0453,Student_453,CSE,Python,4,71.26,78,B,Prof. Rao,Lab 1,3.4,14,13,Yes,76851,Placed
+STU0454,Student_454,Mechanical,Python,7,82.11,85,B,Dr. Kumar,Block A,9.7,32,21,No,72555,Not Placed
+STU0455,Student_455,Mechanical,Python,5,61.6,95,A,Dr. Kumar,Block B,2.3,45,28,Yes,52604,Not Placed
+STU0456,Student_456,Civil,Networks,4,99.43,47,D,Dr. Sharma,Lab 2,6.4,17,10,No,40733,Not Placed
+STU0457,Student_457,MBA,Management,8,84.02,52,D,Prof. Reddy,Lab 2,7.1,3,34,No,47256,Placed
+STU0458,Student_458,ECE,Networks,4,70.63,70,C,Prof. Rao,Lab 1,2.6,42,32,No,41728,Not Placed
+STU0459,Student_459,Mechanical,Networks,5,92.96,97,A,Prof. Reddy,Block B,3.4,37,2,No,24803,Not Placed
+STU0460,Student_460,Mechanical,Management,4,85.4,42,D,Prof. Rao,Lab 1,2.3,25,3,No,100466,Not Placed
+STU0461,Student_461,CSE,AI,5,78.62,43,D,Prof. Reddy,Block B,9.4,26,2,Yes,52475,Placed
+STU0462,Student_462,CSE,Data Science,2,86.72,40,D,Dr. Sharma,Block B,1.9,19,28,Yes,98890,Not Placed
+STU0463,Student_463,Civil,Data Science,2,75.71,69,C,Dr. Kumar,Lab 2,9.7,16,30,No,23202,Not Placed
+STU0464,Student_464,Civil,DBMS,5,73.57,74,C,Dr. Kumar,Block A,1.5,29,15,Yes,96326,Not Placed
+STU0465,Student_465,Civil,DBMS,1,93.58,67,C,Prof. Reddy,Block B,4.7,33,7,Yes,91249,Not Placed
+STU0466,Student_466,MBA,Data Science,6,66.93,57,D,Prof. Rao,Lab 2,1.8,17,34,Yes,46544,Not Placed
+STU0467,Student_467,CSE,AI,6,65.43,92,A,Prof. Rao,Lab 2,5.9,21,3,Yes,30837,Not Placed
+STU0468,Student_468,Mechanical,Data Science,1,79.65,80,B,Prof. Reddy,Block B,8.8,42,21,No,39964,Placed
+STU0469,Student_469,EEE,Python,6,70.46,94,A,Dr. Sharma,Block B,3.6,27,36,Yes,26557,Not Placed
+STU0470,Student_470,EEE,AI,8,74.32,51,D,Prof. Reddy,Lab 2,1.5,30,15,Yes,76796,Not Placed
+STU0471,Student_471,Mechanical,Data Science,7,97.7,84,B,Dr. Kumar,Block A,5.8,41,13,No,87342,Placed
+STU0472,Student_472,MBA,DBMS,2,84.81,54,D,Prof. Reddy,Block A,3.8,5,15,Yes,26828,Not Placed
+STU0473,Student_473,ECE,Data Science,3,96.55,89,B,Prof. Reddy,Lab 2,4.2,41,19,No,29829,Not Placed
+STU0474,Student_474,Civil,Networks,3,74.65,88,B,Dr. Sharma,Block A,9.9,11,22,Yes,80906,Placed
+STU0475,Student_475,ECE,DBMS,3,88.28,91,A,Dr. Sharma,Lab 2,2.3,45,31,No,38407,Not Placed
+STU0476,Student_476,Civil,Python,8,77.13,72,C,Prof. Reddy,Lab 1,5.6,19,36,No,44589,Not Placed
+STU0477,Student_477,Civil,Management,7,92.06,96,A,Prof. Rao,Lab 2,1.2,18,2,Yes,72466,Placed
+STU0478,Student_478,MBA,Networks,6,71.21,40,D,Dr. Sharma,Lab 2,3.3,42,24,Yes,77606,Not Placed
+STU0479,Student_479,ECE,DBMS,6,74.06,91,A,Dr. Kumar,Block A,1.2,2,26,No,101724,Not Placed
+STU0480,Student_480,Civil,Python,5,74.71,51,D,Dr. Kumar,Block A,4.1,40,21,Yes,66323,Not Placed
+STU0481,Student_481,EEE,DBMS,3,80.78,98,A,Dr. Sharma,Lab 2,3.3,12,3,No,67275,Not Placed
+STU0482,Student_482,Civil,Python,4,92.9,94,A,Dr. Sharma,Block A,9.2,7,17,No,63894,Not Placed
+STU0483,Student_483,EEE,Data Science,6,90.16,46,D,Dr. Kumar,Lab 2,4.0,11,36,No,78402,Placed
+STU0484,Student_484,Mechanical,Networks,8,93.87,94,A,Dr. Kumar,Lab 1,6.7,2,35,No,57252,Not Placed
+STU0485,Student_485,ECE,Management,4,64.65,63,C,Dr. Kumar,Block B,3.3,50,3,No,91865,Placed
+STU0486,Student_486,Mechanical,Data Science,4,61.86,77,B,Prof. Reddy,Lab 2,5.8,22,36,No,101075,Not Placed
+STU0487,Student_487,MBA,Management,2,77.25,85,B,Prof. Reddy,Lab 2,8.8,4,10,Yes,112959,Placed
+STU0488,Student_488,CSE,Data Science,6,80.29,65,C,Prof. Reddy,Lab 1,4.5,36,34,No,21962,Placed
+STU0489,Student_489,MBA,Python,8,61.53,78,B,Dr. Sharma,Block B,6.6,2,12,Yes,32539,Not Placed
+STU0490,Student_490,ECE,Data Science,3,79.86,92,A,Dr. Kumar,Block B,1.6,41,21,Yes,30174,Not Placed
+STU0491,Student_491,ECE,Data Science,8,72.95,77,B,Dr. Kumar,Block A,7.1,10,1,Yes,35740,Not Placed
+STU0492,Student_492,Mechanical,AI,6,75.55,87,B,Prof. Reddy,Lab 1,3.7,40,2,Yes,93031,Placed
+STU0493,Student_493,ECE,DBMS,8,81.27,76,B,Dr. Kumar,Block B,9.3,16,39,Yes,114945,Placed
+STU0494,Student_494,ECE,Python,8,70.98,46,D,Dr. Kumar,Block B,7.5,6,33,Yes,88157,Placed
+STU0495,Student_495,MBA,Python,5,62.52,45,D,Prof. Rao,Lab 2,2.9,47,40,Yes,39449,Not Placed
+STU0496,Student_496,Civil,AI,2,90.52,38,F,Prof. Reddy,Block A,2.5,4,34,No,70756,Placed
+STU0497,Student_497,ECE,AI,6,99.13,37,F,Prof. Reddy,Block B,1.9,43,26,Yes,97515,Placed
+STU0498,Student_498,Civil,Management,8,82.48,46,D,Prof. Reddy,Block A,8.1,19,39,Yes,67287,Not Placed
+STU0499,Student_499,Mechanical,Python,7,85.03,100,A,Dr. Kumar,Lab 1,7.2,39,22,No,59419,Placed
+STU0500,Student_500,CSE,Python,7,79.88,56,D,Dr. Kumar,Lab 1,8.8,21,17,Yes,104355,Placed
+STU0501,Student_501,Civil,DBMS,4,60.49,61,C,Dr. Kumar,Lab 2,9.9,2,30,Yes,118847,Not Placed
+STU0502,Student_502,MBA,Data Science,8,88.13,71,C,Prof. Reddy,Lab 1,7.0,36,6,Yes,75586,Not Placed
+STU0503,Student_503,Mechanical,Management,6,81.12,86,B,Prof. Reddy,Lab 1,2.8,10,37,No,73350,Placed
+STU0504,Student_504,Civil,Networks,2,80.05,95,A,Prof. Rao,Block B,8.8,45,2,Yes,91322,Placed
+STU0505,Student_505,CSE,Python,5,74.04,45,D,Dr. Kumar,Block A,3.6,26,34,Yes,51721,Placed
+STU0506,Student_506,MBA,Networks,5,94.16,55,D,Prof. Reddy,Lab 2,3.5,35,38,No,57393,Placed
+STU0507,Student_507,Civil,Networks,6,67.23,97,A,Dr. Kumar,Lab 1,5.2,25,22,Yes,41670,Placed
+STU0508,Student_508,EEE,Python,2,90.01,83,B,Prof. Reddy,Block A,3.6,34,11,No,87696,Placed
+STU0509,Student_509,Mechanical,Management,6,62.38,69,C,Dr. Sharma,Lab 1,9.5,18,34,Yes,112317,Not Placed
+STU0510,Student_510,Civil,Python,2,96.37,94,A,Prof. Rao,Block A,2.5,8,25,No,115500,Not Placed
+STU0511,Student_511,CSE,Management,6,70.7,69,C,Prof. Reddy,Block A,1.4,37,25,Yes,95758,Placed
+STU0512,Student_512,CSE,Management,5,65.95,61,C,Dr. Sharma,Lab 1,1.2,4,34,No,72887,Placed
+STU0513,Student_513,EEE,DBMS,6,80.3,46,D,Dr. Sharma,Lab 2,8.8,12,8,Yes,96154,Placed
+STU0514,Student_514,Mechanical,Data Science,1,93.93,37,F,Prof. Rao,Block B,5.0,3,40,No,68999,Placed
+STU0515,Student_515,ECE,Data Science,1,91.83,68,C,Prof. Reddy,Lab 2,1.1,5,4,Yes,112171,Placed
+STU0516,Student_516,EEE,Networks,7,81.42,75,B,Prof. Rao,Lab 1,4.6,41,11,No,27016,Not Placed
+STU0517,Student_517,EEE,AI,6,63.31,53,D,Dr. Sharma,Lab 1,5.6,30,7,No,54869,Not Placed
+STU0518,Student_518,Civil,AI,3,62.82,35,F,Dr. Kumar,Lab 2,5.9,26,20,Yes,106117,Placed
+STU0519,Student_519,Mechanical,Python,1,78.17,46,D,Dr. Sharma,Lab 2,4.9,38,37,Yes,87019,Not Placed
+STU0520,Student_520,ECE,Management,7,99.09,91,A,Prof. Reddy,Lab 2,4.6,19,14,No,92809,Not Placed
+STU0521,Student_521,ECE,Python,5,95.43,57,D,Prof. Reddy,Block B,8.0,31,37,No,59201,Not Placed
+STU0522,Student_522,CSE,AI,2,75.76,97,A,Prof. Reddy,Block B,9.6,38,17,Yes,36553,Not Placed
+STU0523,Student_523,ECE,Data Science,7,77.61,91,A,Dr. Kumar,Block A,2.9,25,17,Yes,93580,Placed
+STU0524,Student_524,CSE,AI,1,83.44,57,D,Prof. Reddy,Lab 2,9.5,1,26,No,90484,Not Placed
+STU0525,Student_525,Mechanical,Data Science,7,75.43,79,B,Prof. Rao,Lab 2,9.8,15,20,Yes,51987,Placed
+STU0526,Student_526,Mechanical,DBMS,6,64.87,46,D,Prof. Reddy,Lab 2,4.6,5,2,No,62385,Not Placed
+STU0527,Student_527,MBA,Data Science,3,89.25,100,A,Dr. Kumar,Lab 1,5.2,37,14,No,117744,Not Placed
+STU0528,Student_528,Civil,Networks,1,85.08,56,D,Dr. Sharma,Lab 2,9.7,21,11,Yes,77099,Placed
+STU0529,Student_529,ECE,DBMS,1,76.09,37,F,Dr. Kumar,Lab 2,4.1,31,23,Yes,44336,Not Placed
+STU0530,Student_530,Mechanical,Management,1,77.14,55,D,Dr. Sharma,Lab 1,2.9,9,9,Yes,99894,Not Placed
+STU0531,Student_531,CSE,Management,4,64.36,49,D,Prof. Rao,Lab 1,3.5,45,11,Yes,82872,Placed
+STU0532,Student_532,EEE,Python,6,76.28,53,D,Dr. Sharma,Block A,7.9,43,2,Yes,53860,Placed
+STU0533,Student_533,MBA,Data Science,6,85.41,98,A,Prof. Rao,Lab 2,4.7,27,23,Yes,78584,Not Placed
+STU0534,Student_534,CSE,DBMS,4,80.91,56,D,Dr. Kumar,Block B,9.5,44,2,Yes,97672,Not Placed
+STU0535,Student_535,ECE,Python,6,95.19,70,C,Dr. Sharma,Block A,4.4,26,22,No,61919,Placed
+STU0536,Student_536,MBA,AI,3,77.36,80,B,Dr. Kumar,Lab 1,10.0,15,13,Yes,50804,Placed
+STU0537,Student_537,Civil,Management,3,62.82,90,A,Prof. Rao,Block A,9.0,29,28,Yes,101036,Not Placed
+STU0538,Student_538,MBA,Python,2,60.34,88,B,Prof. Reddy,Lab 2,8.4,15,23,No,41273,Placed
+STU0539,Student_539,MBA,Data Science,8,81.56,98,A,Prof. Reddy,Block A,3.8,47,12,Yes,60581,Placed
+STU0540,Student_540,CSE,AI,7,75.84,74,C,Dr. Kumar,Lab 1,4.6,20,1,No,103468,Placed
+STU0541,Student_541,CSE,Python,1,96.58,77,B,Dr. Kumar,Lab 1,8.6,31,14,No,111780,Not Placed
+STU0542,Student_542,CSE,Management,3,91.28,68,C,Dr. Sharma,Block B,9.3,37,1,Yes,53366,Not Placed
+STU0543,Student_543,MBA,AI,8,95.57,70,C,Prof. Rao,Block B,2.4,44,29,No,41306,Placed
+STU0544,Student_544,EEE,AI,4,82.05,47,D,Dr. Kumar,Block A,5.7,28,11,No,83930,Placed
+STU0545,Student_545,ECE,Management,6,76.43,99,A,Dr. Sharma,Lab 1,1.4,15,26,Yes,63840,Placed
+STU0546,Student_546,EEE,Data Science,7,89.4,65,C,Prof. Rao,Block B,7.8,41,34,No,118032,Not Placed
+STU0547,Student_547,EEE,Data Science,4,91.96,50,D,Dr. Sharma,Lab 1,9.1,45,38,No,102065,Placed
+STU0548,Student_548,Mechanical,Python,2,68.71,63,C,Prof. Reddy,Lab 2,8.6,12,7,No,101513,Not Placed
+STU0549,Student_549,ECE,AI,2,85.97,68,C,Dr. Sharma,Lab 1,6.2,43,29,No,89711,Not Placed
+STU0550,Student_550,ECE,Networks,2,69.37,72,C,Dr. Sharma,Block A,2.1,5,9,No,32687,Not Placed
+STU0551,Student_551,Civil,Python,8,94.67,81,B,Dr. Sharma,Block A,6.9,23,23,Yes,96028,Not Placed
+STU0552,Student_552,MBA,Python,5,77.47,72,C,Dr. Sharma,Block A,8.7,32,1,No,66987,Placed
+STU0553,Student_553,Mechanical,DBMS,5,69.02,42,D,Dr. Sharma,Block A,8.3,21,33,No,37409,Placed
+STU0554,Student_554,CSE,Management,3,77.83,92,A,Prof. Rao,Lab 1,6.4,21,35,No,29019,Not Placed
+STU0555,Student_555,CSE,AI,1,90.27,74,C,Dr. Kumar,Lab 2,1.1,48,18,No,49965,Placed
+STU0556,Student_556,MBA,DBMS,8,77.56,77,B,Prof. Rao,Block B,4.6,49,34,Yes,104116,Placed
+STU0557,Student_557,ECE,Data Science,4,91.04,51,D,Prof. Rao,Block A,2.3,25,1,Yes,110321,Not Placed
+STU0558,Student_558,ECE,Data Science,3,88.26,60,C,Dr. Sharma,Block A,9.3,49,38,Yes,28476,Placed
+STU0559,Student_559,ECE,DBMS,4,91.87,66,C,Dr. Kumar,Lab 2,9.0,47,14,Yes,33853,Placed
+STU0560,Student_560,EEE,Networks,4,90.52,52,D,Prof. Rao,Lab 2,6.9,50,21,Yes,99987,Not Placed
+STU0561,Student_561,EEE,Python,5,85.36,84,B,Dr. Sharma,Lab 1,6.5,42,9,Yes,99019,Placed
+STU0562,Student_562,EEE,Networks,8,91.69,40,D,Prof. Reddy,Block A,2.1,1,2,Yes,34997,Placed
+STU0563,Student_563,Mechanical,Networks,8,68.75,45,D,Dr. Kumar,Block B,9.8,20,34,No,24924,Placed
+STU0564,Student_564,EEE,AI,4,60.22,87,B,Dr. Sharma,Block A,5.0,37,3,No,106287,Placed
+STU0565,Student_565,Civil,Python,6,74.98,90,A,Prof. Reddy,Lab 2,4.0,21,19,No,62210,Placed
+STU0566,Student_566,EEE,Management,8,70.71,53,D,Dr. Sharma,Block B,9.2,35,2,No,72671,Placed
+STU0567,Student_567,EEE,AI,2,82.39,88,B,Prof. Reddy,Lab 2,2.3,13,23,Yes,42685,Not Placed
+STU0568,Student_568,Mechanical,Networks,3,78.92,43,D,Prof. Rao,Block B,6.3,37,7,Yes,112221,Placed
+STU0569,Student_569,MBA,DBMS,4,64.14,50,D,Prof. Rao,Lab 2,5.1,30,30,No,44171,Not Placed
+STU0570,Student_570,ECE,AI,8,68.15,72,C,Prof. Reddy,Block B,7.7,25,38,No,64296,Placed
+STU0571,Student_571,MBA,AI,5,91.19,41,D,Prof. Reddy,Block B,9.8,1,28,No,44151,Not Placed
+STU0572,Student_572,MBA,DBMS,1,98.94,58,D,Dr. Kumar,Block B,1.2,24,12,Yes,46761,Placed
+STU0573,Student_573,EEE,Management,8,74.45,57,D,Dr. Kumar,Lab 1,1.9,14,18,No,41285,Not Placed
+STU0574,Student_574,Mechanical,Data Science,4,61.44,73,C,Dr. Sharma,Lab 1,8.0,3,39,Yes,104549,Placed
+STU0575,Student_575,MBA,Networks,6,87.57,74,C,Prof. Reddy,Block A,9.8,6,23,Yes,94839,Not Placed
+STU0576,Student_576,EEE,Networks,1,84.59,49,D,Prof. Rao,Block B,9.1,17,17,No,34115,Not Placed
+STU0577,Student_577,CSE,DBMS,3,67.85,99,A,Dr. Kumar,Block B,9.5,4,20,Yes,57855,Placed
+STU0578,Student_578,EEE,Python,3,76.59,70,C,Prof. Rao,Lab 1,3.0,24,17,No,31001,Not Placed
+STU0579,Student_579,ECE,Data Science,6,67.02,87,B,Dr. Sharma,Block B,4.8,50,38,No,82089,Placed
+STU0580,Student_580,CSE,DBMS,5,87.79,52,D,Dr. Kumar,Lab 1,2.3,49,16,No,63947,Placed
+STU0581,Student_581,CSE,AI,4,77.86,94,A,Prof. Reddy,Lab 1,8.3,9,40,Yes,60328,Placed
+STU0582,Student_582,EEE,AI,7,97.94,47,D,Dr. Sharma,Lab 1,2.2,48,12,Yes,33125,Not Placed
+STU0583,Student_583,EEE,DBMS,8,76.2,89,B,Dr. Kumar,Block B,7.1,24,22,Yes,106099,Not Placed
+STU0584,Student_584,Civil,DBMS,5,91.15,71,C,Prof. Reddy,Lab 1,2.8,11,39,No,44973,Not Placed
+STU0585,Student_585,Civil,DBMS,1,87.09,56,D,Prof. Rao,Block B,9.2,10,24,No,93851,Not Placed
+STU0586,Student_586,Civil,Python,4,98.84,91,A,Prof. Reddy,Block A,1.2,41,23,Yes,47377,Placed
+STU0587,Student_587,ECE,AI,7,93.39,92,A,Prof. Reddy,Lab 2,3.0,38,15,Yes,43329,Placed
+STU0588,Student_588,EEE,Data Science,7,72.69,92,A,Prof. Reddy,Block A,1.3,15,26,Yes,59570,Placed
+STU0589,Student_589,MBA,Python,6,69.71,67,C,Dr. Sharma,Lab 2,1.5,25,15,No,50276,Placed
+STU0590,Student_590,Mechanical,Data Science,5,74.08,88,B,Prof. Rao,Lab 1,6.3,50,37,No,71493,Not Placed
+STU0591,Student_591,EEE,DBMS,7,96.4,51,D,Dr. Kumar,Block A,5.1,44,24,Yes,52572,Placed
+STU0592,Student_592,CSE,Data Science,1,83.48,86,B,Prof. Rao,Lab 2,8.8,43,20,Yes,56912,Not Placed
+STU0593,Student_593,EEE,Data Science,6,81.43,97,A,Dr. Sharma,Lab 2,1.3,34,32,Yes,29307,Not Placed
+STU0594,Student_594,MBA,AI,3,71.67,92,A,Prof. Reddy,Lab 1,1.9,30,19,No,65522,Not Placed
+STU0595,Student_595,CSE,DBMS,5,90.3,54,D,Dr. Kumar,Block A,2.5,40,5,No,84774,Placed
+STU0596,Student_596,MBA,Python,2,75.01,53,D,Prof. Rao,Block A,2.3,50,39,Yes,116396,Placed
+STU0597,Student_597,Mechanical,AI,6,70.43,71,C,Dr. Kumar,Block B,5.7,9,8,No,86635,Not Placed
+STU0598,Student_598,Civil,Data Science,2,69.5,77,B,Dr. Kumar,Lab 2,7.3,21,12,No,53932,Placed
+STU0599,Student_599,EEE,Management,5,66.48,63,C,Prof. Reddy,Block B,4.8,17,10,No,40260,Placed
+STU0600,Student_600,EEE,DBMS,6,60.75,85,B,Dr. Sharma,Lab 2,8.8,15,12,No,58878,Not Placed
+STU0601,Student_601,ECE,DBMS,7,77.78,61,C,Dr. Sharma,Lab 1,6.9,29,12,Yes,28433,Placed
+STU0602,Student_602,MBA,DBMS,1,72.49,55,D,Prof. Reddy,Lab 2,8.0,13,30,No,116306,Placed
+STU0603,Student_603,Mechanical,DBMS,8,79.34,66,C,Prof. Reddy,Block B,3.6,38,9,No,48296,Placed
+STU0604,Student_604,Civil,Data Science,5,96.89,39,F,Prof. Reddy,Block A,3.1,16,31,No,22362,Not Placed
+STU0605,Student_605,CSE,Python,4,75.26,56,D,Dr. Sharma,Lab 1,5.1,5,5,Yes,32609,Placed
+STU0606,Student_606,Civil,Networks,4,64.38,70,C,Dr. Kumar,Lab 1,3.3,44,36,Yes,32893,Placed
+STU0607,Student_607,EEE,AI,7,79.3,71,C,Prof. Reddy,Block A,2.2,4,13,Yes,89374,Placed
+STU0608,Student_608,Civil,Management,8,75.35,92,A,Prof. Rao,Block A,9.9,41,10,No,45915,Not Placed
+STU0609,Student_609,Mechanical,Data Science,7,95.4,64,C,Dr. Kumar,Lab 1,9.0,3,18,No,92969,Not Placed
+STU0610,Student_610,Civil,AI,2,62.13,67,C,Dr. Sharma,Block B,8.5,40,4,No,35205,Not Placed
+STU0611,Student_611,CSE,Management,5,85.06,39,F,Prof. Reddy,Block A,4.4,33,15,No,48992,Not Placed
+STU0612,Student_612,EEE,Networks,3,97.12,74,C,Dr. Kumar,Block A,5.4,17,30,No,64017,Not Placed
+STU0613,Student_613,MBA,Networks,6,87.54,100,A,Prof. Rao,Lab 1,5.1,40,19,Yes,55756,Not Placed
+STU0614,Student_614,MBA,AI,8,93.46,84,B,Dr. Sharma,Block B,7.0,11,7,No,87996,Not Placed
+STU0615,Student_615,MBA,AI,8,81.9,41,D,Prof. Reddy,Lab 2,1.2,5,40,Yes,86995,Not Placed
+STU0616,Student_616,Mechanical,Networks,4,74.88,46,D,Prof. Rao,Lab 1,6.8,1,38,Yes,80472,Not Placed
+STU0617,Student_617,EEE,DBMS,2,90.47,40,D,Dr. Kumar,Lab 2,9.7,1,26,Yes,57476,Placed
+STU0618,Student_618,Mechanical,AI,1,64.35,72,C,Dr. Kumar,Block B,9.8,39,21,Yes,86806,Placed
+STU0619,Student_619,CSE,DBMS,1,66.93,71,C,Dr. Sharma,Lab 1,4.9,31,22,Yes,80410,Placed
+STU0620,Student_620,ECE,AI,6,74.22,72,C,Prof. Reddy,Lab 2,6.2,39,23,Yes,114924,Placed
+STU0621,Student_621,MBA,AI,5,76.72,95,A,Dr. Kumar,Block B,4.1,11,19,No,64040,Placed
+STU0622,Student_622,Civil,Python,5,60.48,80,B,Dr. Kumar,Lab 2,2.1,38,26,Yes,79621,Placed
+STU0623,Student_623,ECE,Networks,2,70.24,57,D,Dr. Kumar,Block B,8.8,9,16,No,111614,Placed
+STU0624,Student_624,ECE,Python,3,93.66,39,F,Prof. Reddy,Block A,5.3,22,34,Yes,60073,Placed
+STU0625,Student_625,Civil,Networks,5,72.51,85,B,Prof. Reddy,Lab 1,7.9,19,32,No,59400,Not Placed
+STU0626,Student_626,ECE,Networks,3,69.98,59,D,Dr. Sharma,Block A,4.4,16,19,Yes,108341,Not Placed
+STU0627,Student_627,Mechanical,Networks,2,86.86,37,F,Dr. Sharma,Block A,3.3,49,13,No,117340,Not Placed
+STU0628,Student_628,Mechanical,Networks,6,63.85,56,D,Dr. Kumar,Lab 2,4.3,1,39,No,53692,Placed
+STU0629,Student_629,MBA,Management,8,65.14,98,A,Prof. Rao,Lab 2,8.2,4,35,Yes,62445,Placed
+STU0630,Student_630,Mechanical,Management,3,95.04,90,A,Dr. Sharma,Lab 2,1.3,21,14,No,28356,Not Placed
+STU0631,Student_631,EEE,Networks,8,92.26,53,D,Dr. Kumar,Lab 1,3.0,8,2,No,35484,Not Placed
+STU0632,Student_632,CSE,Data Science,6,66.69,72,C,Dr. Sharma,Block A,9.7,40,11,Yes,44753,Placed
+STU0633,Student_633,CSE,Python,3,76.11,99,A,Prof. Rao,Lab 1,3.3,45,2,Yes,87019,Not Placed
+STU0634,Student_634,CSE,Management,5,62.93,75,B,Dr. Sharma,Block B,7.9,6,12,Yes,118991,Placed
+STU0635,Student_635,MBA,Data Science,7,75.61,85,B,Dr. Sharma,Lab 1,3.6,5,5,Yes,118617,Placed
+STU0636,Student_636,Mechanical,Management,1,85.42,35,F,Dr. Kumar,Lab 2,7.8,2,38,No,98368,Not Placed
+STU0637,Student_637,ECE,Data Science,3,94.88,67,C,Dr. Sharma,Block A,9.7,16,10,No,91024,Placed
+STU0638,Student_638,ECE,Networks,2,78.79,83,B,Prof. Rao,Block B,2.9,43,38,No,37469,Not Placed
+STU0639,Student_639,EEE,Management,1,61.69,43,D,Dr. Sharma,Lab 1,2.5,43,29,No,41253,Not Placed
+STU0640,Student_640,ECE,Management,1,83.75,88,B,Dr. Sharma,Lab 2,7.9,32,2,No,38003,Placed
+STU0641,Student_641,Civil,AI,8,78.9,49,D,Dr. Kumar,Block B,7.8,46,20,No,36409,Placed
+STU0642,Student_642,CSE,Python,7,61.29,59,D,Prof. Reddy,Lab 1,4.2,13,17,No,60303,Not Placed
+STU0643,Student_643,CSE,Management,8,83.1,54,D,Dr. Sharma,Block A,3.9,25,15,No,38434,Placed
+STU0644,Student_644,Civil,Data Science,6,79.95,80,B,Dr. Kumar,Block B,3.4,2,15,No,53846,Not Placed
+STU0645,Student_645,MBA,AI,1,61.98,52,D,Prof. Rao,Lab 2,3.4,14,8,No,109323,Placed
+STU0646,Student_646,Mechanical,DBMS,8,67.97,35,F,Dr. Sharma,Block B,8.1,46,6,Yes,114532,Not Placed
+STU0647,Student_647,ECE,AI,4,89.2,62,C,Prof. Reddy,Lab 2,6.2,35,34,No,104692,Placed
+STU0648,Student_648,EEE,Networks,8,65.71,94,A,Dr. Sharma,Lab 2,3.4,49,11,Yes,61434,Not Placed
+STU0649,Student_649,ECE,Data Science,7,65.51,64,C,Dr. Kumar,Block B,5.9,7,23,No,55906,Not Placed
+STU0650,Student_650,Mechanical,Data Science,5,82.2,79,B,Dr. Sharma,Lab 1,1.8,7,18,Yes,25905,Not Placed
+STU0651,Student_651,CSE,Networks,4,89.66,86,B,Dr. Kumar,Block A,1.8,40,5,Yes,84763,Not Placed
+STU0652,Student_652,Mechanical,DBMS,2,83.82,57,D,Prof. Reddy,Lab 1,5.4,13,19,Yes,114937,Not Placed
+STU0653,Student_653,MBA,Data Science,5,90.88,42,D,Prof. Reddy,Block B,6.3,5,36,Yes,57589,Placed
+STU0654,Student_654,MBA,AI,7,71.19,65,C,Prof. Reddy,Block B,4.9,37,26,Yes,35431,Placed
+STU0655,Student_655,CSE,Python,1,83.98,56,D,Prof. Rao,Lab 2,7.0,16,2,No,77717,Placed
+STU0656,Student_656,CSE,Python,4,98.29,39,F,Dr. Kumar,Lab 1,6.5,8,22,Yes,75383,Placed
+STU0657,Student_657,Mechanical,AI,2,79.14,97,A,Prof. Rao,Lab 2,3.8,44,9,No,116261,Placed
+STU0658,Student_658,Mechanical,Data Science,5,96.49,60,C,Prof. Reddy,Block B,2.1,3,11,Yes,98733,Placed
+STU0659,Student_659,CSE,Python,3,98.01,52,D,Prof. Rao,Lab 2,4.4,32,8,Yes,106521,Placed
+STU0660,Student_660,ECE,Management,1,78.09,41,D,Dr. Kumar,Lab 1,8.9,35,19,No,48893,Not Placed
+STU0661,Student_661,ECE,DBMS,7,86.82,60,C,Dr. Kumar,Block B,3.2,32,22,No,47570,Not Placed
+STU0662,Student_662,ECE,Management,6,83.15,100,A,Dr. Kumar,Block A,1.6,16,14,Yes,36251,Not Placed
+STU0663,Student_663,ECE,Management,4,91.24,43,D,Prof. Rao,Block B,7.7,16,39,No,64365,Placed
+STU0664,Student_664,Mechanical,AI,1,92.69,47,D,Prof. Rao,Block B,5.9,49,26,Yes,81009,Not Placed
+STU0665,Student_665,MBA,Management,5,90.55,50,D,Prof. Rao,Lab 2,4.8,7,24,Yes,97919,Placed
+STU0666,Student_666,EEE,AI,4,96.89,91,A,Prof. Rao,Block A,2.1,3,10,No,55689,Not Placed
+STU0667,Student_667,ECE,DBMS,4,78.24,83,B,Prof. Rao,Block A,9.6,31,21,Yes,81513,Not Placed
+STU0668,Student_668,ECE,Networks,5,86.88,87,B,Prof. Rao,Lab 1,3.1,26,23,No,69059,Placed
+STU0669,Student_669,EEE,AI,8,69.89,54,D,Prof. Reddy,Block A,2.7,35,20,Yes,82212,Not Placed
+STU0670,Student_670,Civil,AI,1,86.11,45,D,Prof. Rao,Block A,9.7,16,1,No,84332,Placed
+STU0671,Student_671,CSE,Management,4,95.27,43,D,Dr. Kumar,Block A,8.6,47,22,No,112656,Not Placed
+STU0672,Student_672,ECE,DBMS,7,73.07,80,B,Prof. Reddy,Lab 2,8.1,11,38,Yes,72287,Not Placed
+STU0673,Student_673,ECE,Python,6,98.52,37,F,Dr. Sharma,Lab 1,7.5,24,1,Yes,63175,Placed
+STU0674,Student_674,ECE,Data Science,8,84.78,81,B,Dr. Sharma,Lab 1,5.8,47,12,Yes,33707,Placed
+STU0675,Student_675,MBA,Data Science,5,60.68,84,B,Prof. Reddy,Lab 1,2.1,24,33,Yes,35215,Placed
+STU0676,Student_676,Civil,Management,2,70.01,56,D,Dr. Kumar,Lab 2,1.5,36,14,Yes,34792,Not Placed
+STU0677,Student_677,EEE,Management,3,99.78,35,F,Dr. Kumar,Block A,3.4,2,18,Yes,108826,Placed
+STU0678,Student_678,Civil,Management,6,84.04,46,D,Dr. Kumar,Lab 2,9.9,21,27,Yes,111242,Placed
+STU0679,Student_679,MBA,Python,1,84.38,96,A,Dr. Kumar,Block B,2.9,30,24,No,116168,Not Placed
+STU0680,Student_680,Civil,Management,6,70.03,71,C,Prof. Reddy,Lab 1,9.2,15,13,No,50485,Not Placed
+STU0681,Student_681,Mechanical,Management,2,75.85,83,B,Dr. Sharma,Block B,9.9,22,32,Yes,28619,Not Placed
+STU0682,Student_682,Mechanical,DBMS,3,60.95,85,B,Dr. Kumar,Lab 1,7.4,24,38,Yes,47856,Placed
+STU0683,Student_683,MBA,Python,1,82.74,90,A,Dr. Sharma,Block B,6.2,14,15,No,119139,Not Placed
+STU0684,Student_684,EEE,Networks,4,64.15,49,D,Prof. Rao,Lab 2,6.0,42,39,Yes,110684,Not Placed
+STU0685,Student_685,EEE,Networks,3,68.51,100,A,Prof. Reddy,Lab 2,8.2,34,20,Yes,55707,Placed
+STU0686,Student_686,CSE,Networks,3,85.74,76,B,Prof. Reddy,Block A,6.8,16,26,No,61658,Placed
+STU0687,Student_687,EEE,DBMS,4,84.61,98,A,Prof. Reddy,Block A,3.5,12,36,No,64326,Not Placed
+STU0688,Student_688,Mechanical,DBMS,6,70.87,72,C,Dr. Kumar,Block A,4.8,9,40,Yes,31200,Placed
+STU0689,Student_689,Mechanical,Networks,3,96.88,83,B,Prof. Rao,Block A,3.4,48,26,No,61941,Not Placed
+STU0690,Student_690,ECE,DBMS,4,72.49,68,C,Prof. Rao,Block A,4.2,16,26,No,62673,Placed
+STU0691,Student_691,MBA,Networks,1,97.08,49,D,Dr. Kumar,Block A,3.1,34,17,No,77403,Not Placed
+STU0692,Student_692,CSE,Networks,8,73.33,77,B,Prof. Reddy,Lab 1,4.1,34,17,Yes,102588,Not Placed
+STU0693,Student_693,Civil,Data Science,2,97.67,62,C,Dr. Sharma,Block A,8.8,16,26,Yes,63683,Placed
+STU0694,Student_694,Civil,Networks,7,81.01,84,B,Prof. Reddy,Block B,8.7,45,40,No,61488,Not Placed
+STU0695,Student_695,ECE,Python,1,63.44,54,D,Prof. Rao,Lab 1,5.4,42,17,No,47529,Placed
+STU0696,Student_696,EEE,AI,3,98.33,55,D,Dr. Kumar,Lab 2,7.4,43,39,Yes,85905,Not Placed
+STU0697,Student_697,ECE,Data Science,7,66.68,57,D,Dr. Sharma,Block B,6.0,19,29,No,56354,Placed
+STU0698,Student_698,EEE,Management,6,69.08,49,D,Dr. Sharma,Lab 1,8.2,42,28,Yes,106428,Placed
+STU0699,Student_699,Mechanical,Networks,5,64.89,37,F,Prof. Reddy,Block A,5.5,29,7,No,39948,Not Placed
+STU0700,Student_700,CSE,AI,5,64.36,82,B,Prof. Rao,Lab 1,8.3,1,21,No,108744,Placed
+STU0701,Student_701,Civil,Data Science,2,60.91,72,C,Prof. Reddy,Block B,7.0,37,2,No,46668,Not Placed
+STU0702,Student_702,Mechanical,Management,4,95.82,89,B,Prof. Reddy,Block A,3.3,12,1,No,77669,Placed
+STU0703,Student_703,EEE,Management,5,75.45,88,B,Dr. Sharma,Lab 2,3.9,17,36,No,44550,Placed
+STU0704,Student_704,CSE,Data Science,3,80.01,64,C,Dr. Sharma,Block A,7.9,23,16,Yes,108529,Placed
+STU0705,Student_705,EEE,DBMS,4,61.89,86,B,Prof. Rao,Lab 1,3.6,20,20,Yes,65576,Placed
+STU0706,Student_706,EEE,Python,5,96.49,40,D,Prof. Reddy,Block B,2.4,9,35,No,26700,Placed
+STU0707,Student_707,ECE,DBMS,6,84.32,56,D,Prof. Reddy,Lab 2,6.0,12,9,No,22760,Not Placed
+STU0708,Student_708,Civil,Data Science,3,60.32,75,B,Prof. Reddy,Block B,2.0,43,17,Yes,55244,Placed
+STU0709,Student_709,Mechanical,Networks,7,62.26,67,C,Prof. Reddy,Block A,1.2,14,16,No,52865,Placed
+STU0710,Student_710,EEE,Management,1,86.74,93,A,Prof. Rao,Lab 2,1.5,16,7,No,31175,Not Placed
+STU0711,Student_711,Civil,Data Science,1,91.43,72,C,Dr. Kumar,Lab 1,7.2,18,5,Yes,84204,Not Placed
+STU0712,Student_712,CSE,Management,2,73.12,86,B,Dr. Kumar,Block A,7.3,50,15,No,94396,Not Placed
+STU0713,Student_713,Civil,DBMS,7,86.57,97,A,Dr. Sharma,Lab 1,6.0,30,30,Yes,21642,Placed
+STU0714,Student_714,Civil,DBMS,2,65.61,53,D,Dr. Kumar,Block A,1.7,35,15,No,111667,Not Placed
+STU0715,Student_715,EEE,AI,7,75.02,92,A,Dr. Sharma,Lab 2,4.9,36,6,No,92619,Not Placed
+STU0716,Student_716,ECE,AI,3,67.72,85,B,Prof. Rao,Block B,2.0,27,28,No,102598,Not Placed
+STU0717,Student_717,Mechanical,AI,3,69.57,88,B,Dr. Kumar,Lab 1,6.4,47,32,Yes,100329,Not Placed
+STU0718,Student_718,Mechanical,Networks,3,95.29,64,C,Dr. Sharma,Block B,2.2,43,5,No,106235,Not Placed
+STU0719,Student_719,EEE,Management,6,92.61,94,A,Dr. Kumar,Block B,1.1,40,40,No,48094,Placed
+STU0720,Student_720,Mechanical,DBMS,1,89.07,48,D,Prof. Rao,Block A,7.4,2,6,No,74271,Placed
+STU0721,Student_721,EEE,DBMS,5,70.61,48,D,Prof. Rao,Block A,5.4,24,10,Yes,53502,Placed
+STU0722,Student_722,MBA,DBMS,8,86.18,77,B,Prof. Rao,Lab 2,6.7,26,25,No,51299,Placed
+STU0723,Student_723,Mechanical,Data Science,5,92.71,55,D,Dr. Kumar,Lab 1,6.2,48,11,Yes,104566,Placed
+STU0724,Student_724,CSE,Networks,5,87.99,48,D,Prof. Reddy,Block B,1.9,28,37,Yes,97654,Not Placed
+STU0725,Student_725,MBA,Networks,1,81.15,93,A,Prof. Reddy,Lab 1,4.5,12,17,No,43870,Not Placed
+STU0726,Student_726,EEE,Python,8,66.74,45,D,Prof. Rao,Lab 1,5.6,4,4,No,88505,Placed
+STU0727,Student_727,MBA,Data Science,8,72.72,97,A,Dr. Sharma,Lab 2,4.4,6,25,Yes,56289,Not Placed
+STU0728,Student_728,CSE,DBMS,8,92.22,52,D,Dr. Kumar,Block A,6.8,23,21,No,77004,Placed
+STU0729,Student_729,Civil,Networks,6,98.31,74,C,Dr. Kumar,Block B,4.9,6,7,No,34254,Placed
+STU0730,Student_730,ECE,AI,3,73.73,54,D,Dr. Kumar,Block A,3.9,45,28,Yes,72869,Placed
+STU0731,Student_731,MBA,AI,1,72.28,50,D,Dr. Sharma,Lab 1,2.7,35,21,No,75778,Not Placed
+STU0732,Student_732,Mechanical,DBMS,6,69.48,87,B,Dr. Kumar,Block B,8.9,48,22,No,118631,Placed
+STU0733,Student_733,MBA,Python,3,94.13,52,D,Dr. Kumar,Lab 2,3.6,26,35,No,20552,Placed
+STU0734,Student_734,Mechanical,Python,3,95.29,75,B,Prof. Rao,Lab 1,2.9,16,19,No,31816,Not Placed
+STU0735,Student_735,Civil,Networks,2,96.13,54,D,Dr. Sharma,Lab 1,5.9,36,21,No,71201,Not Placed
+STU0736,Student_736,ECE,Networks,6,85.71,63,C,Dr. Sharma,Block B,1.7,23,34,Yes,49838,Not Placed
+STU0737,Student_737,CSE,Python,2,90.22,99,A,Dr. Kumar,Block B,1.4,32,14,Yes,22620,Not Placed
+STU0738,Student_738,MBA,Networks,5,70.98,74,C,Dr. Sharma,Block B,8.7,4,8,No,40829,Placed
+STU0739,Student_739,Mechanical,Data Science,7,74.4,69,C,Dr. Kumar,Lab 2,6.1,17,26,Yes,46410,Placed
+STU0740,Student_740,ECE,Networks,1,95.33,76,B,Dr. Sharma,Lab 1,1.5,5,7,Yes,66964,Placed
+STU0741,Student_741,ECE,Management,4,99.42,58,D,Dr. Kumar,Lab 1,2.0,10,5,Yes,86998,Not Placed
+STU0742,Student_742,Civil,Networks,1,99.92,90,A,Dr. Kumar,Lab 2,8.5,4,19,Yes,26106,Placed
+STU0743,Student_743,MBA,Management,2,93.57,47,D,Prof. Rao,Block B,5.0,8,9,No,33402,Not Placed
+STU0744,Student_744,CSE,Management,5,70.64,81,B,Dr. Sharma,Block B,1.5,43,34,No,73057,Placed
+STU0745,Student_745,EEE,Networks,8,73.88,35,F,Prof. Rao,Lab 2,2.0,15,24,Yes,36778,Not Placed
+STU0746,Student_746,MBA,AI,8,97.24,35,F,Prof. Rao,Block A,3.6,23,1,Yes,65085,Not Placed
+STU0747,Student_747,CSE,Management,3,84.63,58,D,Prof. Rao,Lab 1,2.7,37,27,Yes,104774,Not Placed
+STU0748,Student_748,Civil,Python,2,85.04,81,B,Prof. Rao,Lab 2,5.3,21,18,No,109100,Placed
+STU0749,Student_749,MBA,Networks,8,86.65,49,D,Dr. Sharma,Block B,2.3,23,39,Yes,88156,Placed
+STU0750,Student_750,Mechanical,Python,5,86.51,65,C,Dr. Sharma,Block A,10.0,20,25,No,73014,Placed
+STU0751,Student_751,MBA,DBMS,3,77.17,71,C,Dr. Kumar,Block B,1.3,5,22,No,79871,Not Placed
+STU0752,Student_752,EEE,AI,5,97.32,77,B,Dr. Kumar,Lab 1,9.5,40,33,Yes,33070,Placed
+STU0753,Student_753,CSE,DBMS,5,67.42,94,A,Prof. Reddy,Block B,5.3,27,37,Yes,107687,Not Placed
+STU0754,Student_754,ECE,Data Science,3,90.64,95,A,Dr. Sharma,Block A,4.3,38,33,No,48873,Not Placed
+STU0755,Student_755,ECE,AI,4,99.77,97,A,Dr. Sharma,Lab 2,6.1,16,29,Yes,86869,Not Placed
+STU0756,Student_756,EEE,Data Science,4,87.49,65,C,Dr. Kumar,Lab 1,4.6,2,32,Yes,95215,Placed
+STU0757,Student_757,ECE,DBMS,5,85.15,64,C,Dr. Kumar,Lab 2,9.0,9,19,No,84752,Not Placed
+STU0758,Student_758,ECE,Python,4,80.59,42,D,Prof. Rao,Lab 1,4.5,45,1,No,67235,Not Placed
+STU0759,Student_759,CSE,AI,5,99.29,81,B,Prof. Rao,Lab 1,5.0,2,36,No,111021,Not Placed
+STU0760,Student_760,Mechanical,AI,5,87.85,60,C,Prof. Reddy,Block B,3.9,49,5,Yes,87054,Placed
+STU0761,Student_761,Mechanical,Management,1,65.66,65,C,Prof. Reddy,Block A,2.9,45,39,Yes,98996,Not Placed
+STU0762,Student_762,MBA,AI,3,84.38,72,C,Prof. Reddy,Lab 2,6.2,27,10,Yes,61675,Not Placed
+STU0763,Student_763,EEE,AI,7,63.29,41,D,Prof. Rao,Lab 1,8.4,18,16,No,119514,Not Placed
+STU0764,Student_764,Mechanical,Data Science,6,90.55,83,B,Dr. Kumar,Lab 1,1.2,46,3,No,73285,Not Placed
+STU0765,Student_765,Mechanical,DBMS,4,80.1,51,D,Dr. Kumar,Lab 1,7.9,10,28,No,60059,Placed
+STU0766,Student_766,ECE,Networks,2,71.84,86,B,Prof. Rao,Block A,9.8,46,34,Yes,39206,Placed
+STU0767,Student_767,EEE,Data Science,3,63.71,55,D,Dr. Kumar,Block B,2.8,46,30,Yes,53061,Placed
+STU0768,Student_768,MBA,Data Science,4,88.66,65,C,Prof. Reddy,Lab 2,1.1,17,28,No,71365,Not Placed
+STU0769,Student_769,Civil,Networks,4,92.04,86,B,Prof. Rao,Block A,5.6,8,6,No,79358,Not Placed
+STU0770,Student_770,Mechanical,Management,2,65.56,60,C,Dr. Sharma,Block A,4.3,29,23,No,32506,Placed
+STU0771,Student_771,ECE,Management,6,90.54,64,C,Dr. Kumar,Block A,5.8,15,18,No,41444,Not Placed
+STU0772,Student_772,Mechanical,DBMS,3,65.48,54,D,Dr. Kumar,Block B,7.6,19,6,No,73667,Placed
+STU0773,Student_773,CSE,DBMS,3,98.09,89,B,Prof. Reddy,Block A,7.1,12,1,Yes,28415,Not Placed
+STU0774,Student_774,MBA,AI,4,62.99,41,D,Prof. Reddy,Block B,2.7,23,12,No,64741,Not Placed
+STU0775,Student_775,Mechanical,Python,2,62.37,87,B,Dr. Kumar,Lab 1,2.0,10,11,No,41071,Not Placed
+STU0776,Student_776,MBA,Networks,8,75.85,42,D,Dr. Kumar,Lab 1,2.8,25,22,No,83773,Placed
+STU0777,Student_777,ECE,AI,8,99.58,39,F,Prof. Reddy,Lab 2,3.8,3,39,No,30601,Placed
+STU0778,Student_778,CSE,Data Science,7,80.61,35,F,Prof. Rao,Lab 2,1.5,25,9,Yes,35325,Placed
+STU0779,Student_779,EEE,AI,3,61.76,85,B,Prof. Rao,Lab 2,1.7,33,1,Yes,39733,Placed
+STU0780,Student_780,MBA,Management,8,96.82,36,F,Dr. Sharma,Block A,1.1,9,40,No,74391,Placed
+STU0781,Student_781,MBA,DBMS,4,95.39,99,A,Prof. Rao,Lab 1,8.0,19,6,Yes,95257,Not Placed
+STU0782,Student_782,Civil,Python,8,78.71,50,D,Dr. Kumar,Block B,5.8,10,34,Yes,112310,Placed
+STU0783,Student_783,EEE,AI,1,99.28,76,B,Prof. Reddy,Lab 1,6.2,13,25,Yes,28353,Not Placed
+STU0784,Student_784,Mechanical,Python,2,66.22,70,C,Dr. Sharma,Block B,9.5,26,22,Yes,97041,Placed
+STU0785,Student_785,Mechanical,Data Science,2,66.56,100,A,Prof. Rao,Lab 2,2.4,47,18,Yes,28060,Placed
+STU0786,Student_786,MBA,Networks,5,61.55,50,D,Dr. Kumar,Block B,3.2,45,4,No,86320,Not Placed
+STU0787,Student_787,EEE,Python,2,97.16,87,B,Dr. Kumar,Lab 2,7.1,46,14,No,66420,Placed
+STU0788,Student_788,EEE,Python,4,77.22,50,D,Prof. Rao,Block B,8.5,8,26,Yes,95866,Not Placed
+STU0789,Student_789,Civil,DBMS,5,87.98,51,D,Dr. Sharma,Block A,1.1,40,15,Yes,75712,Not Placed
+STU0790,Student_790,MBA,DBMS,2,61.0,55,D,Dr. Sharma,Lab 2,4.6,4,37,No,105339,Placed
+STU0791,Student_791,EEE,Networks,6,62.44,96,A,Prof. Reddy,Lab 2,1.9,38,11,No,35113,Not Placed
+STU0792,Student_792,EEE,Python,2,93.15,44,D,Prof. Reddy,Lab 1,9.8,3,14,No,73391,Not Placed
+STU0793,Student_793,CSE,DBMS,6,79.37,48,D,Prof. Reddy,Lab 1,4.7,25,5,Yes,32677,Placed
+STU0794,Student_794,ECE,Python,7,61.54,69,C,Prof. Reddy,Block B,7.1,24,19,No,112099,Placed
+STU0795,Student_795,ECE,Python,4,75.94,87,B,Prof. Reddy,Block A,9.7,29,29,Yes,66058,Placed
+STU0796,Student_796,MBA,Management,5,90.18,65,C,Dr. Sharma,Block A,1.2,21,36,No,28398,Not Placed
+STU0797,Student_797,Mechanical,Management,4,62.42,79,B,Dr. Kumar,Lab 2,9.9,49,15,No,31928,Not Placed
+STU0798,Student_798,EEE,Management,4,66.66,87,B,Prof. Rao,Lab 1,5.2,19,35,Yes,66727,Not Placed
+STU0799,Student_799,CSE,Data Science,6,93.62,53,D,Prof. Rao,Lab 2,6.2,8,36,No,87135,Placed
+STU0800,Student_800,EEE,DBMS,2,89.27,40,D,Prof. Rao,Block A,1.6,40,13,No,64179,Placed
+STU0801,Student_801,EEE,Python,2,83.77,81,B,Prof. Reddy,Lab 1,8.0,22,23,Yes,95271,Placed
+STU0802,Student_802,EEE,AI,5,79.89,54,D,Dr. Kumar,Block B,1.1,28,36,Yes,53514,Not Placed
+STU0803,Student_803,ECE,DBMS,2,79.19,35,F,Dr. Sharma,Lab 1,9.6,3,12,No,24397,Placed
+STU0804,Student_804,MBA,Networks,1,95.24,72,C,Dr. Sharma,Lab 2,4.7,16,30,No,87007,Placed
+STU0805,Student_805,MBA,Management,2,89.69,45,D,Prof. Rao,Block B,2.5,14,10,No,117965,Not Placed
+STU0806,Student_806,Mechanical,Data Science,3,88.5,43,D,Prof. Rao,Lab 2,1.6,42,37,Yes,64835,Placed
+STU0807,Student_807,Mechanical,Networks,7,80.72,70,C,Prof. Reddy,Block A,2.0,7,22,Yes,59143,Placed
+STU0808,Student_808,ECE,Networks,4,67.47,58,D,Dr. Kumar,Lab 1,8.6,1,6,Yes,107473,Placed
+STU0809,Student_809,Mechanical,AI,2,71.88,53,D,Dr. Kumar,Block A,5.8,48,2,No,42603,Not Placed
+STU0810,Student_810,EEE,Python,1,63.76,48,D,Dr. Kumar,Block A,5.1,4,21,No,49495,Placed
+STU0811,Student_811,Civil,Python,1,82.72,40,D,Dr. Kumar,Lab 1,1.6,27,11,Yes,101573,Placed
+STU0812,Student_812,MBA,Data Science,8,87.57,89,B,Prof. Rao,Block B,2.4,44,14,Yes,78747,Not Placed
+STU0813,Student_813,Mechanical,AI,7,61.7,35,F,Prof. Reddy,Lab 2,9.5,23,6,No,28362,Not Placed
+STU0814,Student_814,EEE,Management,7,78.37,36,F,Dr. Kumar,Block A,2.8,40,5,Yes,43090,Placed
+STU0815,Student_815,EEE,Management,8,65.28,75,B,Prof. Reddy,Block B,5.3,31,15,Yes,82602,Not Placed
+STU0816,Student_816,MBA,Management,7,84.49,86,B,Prof. Reddy,Block B,7.2,26,31,Yes,55495,Not Placed
+STU0817,Student_817,EEE,Management,4,75.45,61,C,Prof. Rao,Block A,7.6,34,4,No,28359,Placed
+STU0818,Student_818,Mechanical,AI,5,75.02,82,B,Dr. Kumar,Lab 1,5.6,24,18,Yes,72693,Placed
+STU0819,Student_819,Mechanical,DBMS,4,71.64,61,C,Prof. Reddy,Block A,8.9,30,9,No,43475,Placed
+STU0820,Student_820,Civil,Data Science,3,96.92,84,B,Prof. Reddy,Block A,1.5,10,30,Yes,21567,Placed
+STU0821,Student_821,ECE,Python,8,77.6,57,D,Dr. Kumar,Lab 1,1.8,8,7,Yes,112171,Placed
+STU0822,Student_822,Civil,DBMS,1,82.08,60,C,Dr. Sharma,Block A,4.1,25,27,Yes,20767,Placed
+STU0823,Student_823,CSE,DBMS,8,91.76,39,F,Prof. Rao,Lab 1,7.4,35,23,No,99257,Placed
+STU0824,Student_824,Civil,Management,5,81.37,86,B,Prof. Reddy,Lab 2,4.8,49,40,No,26887,Placed
+STU0825,Student_825,MBA,DBMS,2,75.26,76,B,Dr. Kumar,Lab 2,9.3,14,9,No,72009,Placed
+STU0826,Student_826,EEE,Management,6,90.87,75,B,Dr. Sharma,Lab 1,3.8,9,31,No,79708,Not Placed
+STU0827,Student_827,CSE,Python,4,94.42,37,F,Dr. Sharma,Block A,1.1,14,3,Yes,27893,Not Placed
+STU0828,Student_828,Civil,Networks,2,89.21,97,A,Dr. Sharma,Lab 2,5.3,24,19,Yes,103997,Placed
+STU0829,Student_829,CSE,Data Science,4,75.79,97,A,Prof. Rao,Lab 1,5.0,15,2,Yes,110486,Placed
+STU0830,Student_830,Civil,Data Science,7,75.26,59,D,Dr. Sharma,Block B,6.8,21,35,Yes,82382,Placed
+STU0831,Student_831,Civil,DBMS,3,74.79,60,C,Prof. Rao,Lab 2,3.9,12,7,Yes,30595,Placed
+STU0832,Student_832,ECE,Networks,1,96.75,57,D,Dr. Kumar,Block A,1.5,43,26,No,101237,Placed
+STU0833,Student_833,Civil,AI,5,98.32,50,D,Prof. Reddy,Block B,7.7,10,21,No,99175,Not Placed
+STU0834,Student_834,CSE,DBMS,7,61.53,71,C,Dr. Kumar,Block A,6.7,12,5,Yes,56919,Placed
+STU0835,Student_835,Civil,Networks,1,73.91,58,D,Prof. Reddy,Lab 2,4.4,50,18,Yes,41510,Not Placed
+STU0836,Student_836,EEE,AI,8,83.76,38,F,Dr. Kumar,Lab 2,4.9,38,27,No,40292,Not Placed
+STU0837,Student_837,Civil,Python,6,60.51,46,D,Prof. Reddy,Block B,7.1,44,16,No,70147,Placed
+STU0838,Student_838,MBA,Python,4,70.29,71,C,Dr. Kumar,Block A,1.2,4,26,No,52640,Placed
+STU0839,Student_839,MBA,DBMS,3,98.33,60,C,Dr. Kumar,Block B,5.7,47,22,No,84771,Not Placed
+STU0840,Student_840,CSE,Management,1,88.3,90,A,Prof. Reddy,Block A,4.1,20,10,Yes,30031,Placed
+STU0841,Student_841,MBA,Data Science,6,84.23,73,C,Prof. Rao,Lab 2,8.4,21,40,Yes,88390,Not Placed
+STU0842,Student_842,EEE,DBMS,6,91.71,80,B,Prof. Rao,Lab 2,8.6,6,35,Yes,80058,Not Placed
+STU0843,Student_843,MBA,AI,2,69.74,78,B,Prof. Rao,Lab 1,2.0,7,38,Yes,73102,Not Placed
+STU0844,Student_844,CSE,Networks,6,87.65,60,C,Dr. Kumar,Lab 1,9.2,34,7,Yes,41497,Not Placed
+STU0845,Student_845,MBA,DBMS,3,82.21,91,A,Dr. Kumar,Block A,2.6,26,28,No,38025,Not Placed
+STU0846,Student_846,ECE,Python,6,77.75,79,B,Prof. Rao,Lab 1,2.2,6,32,Yes,63089,Placed
+STU0847,Student_847,Mechanical,Management,3,82.68,55,D,Prof. Reddy,Lab 2,5.3,19,23,No,24970,Placed
+STU0848,Student_848,Mechanical,Python,7,92.54,45,D,Prof. Reddy,Lab 1,9.1,11,1,Yes,73700,Placed
+STU0849,Student_849,Mechanical,DBMS,2,96.64,39,F,Prof. Rao,Block A,9.2,21,29,No,115347,Not Placed
+STU0850,Student_850,Civil,DBMS,5,83.14,90,A,Prof. Reddy,Block A,2.2,4,31,Yes,43161,Placed
+STU0851,Student_851,MBA,AI,3,81.88,69,C,Dr. Sharma,Lab 1,4.4,2,18,No,103575,Placed
+STU0852,Student_852,Mechanical,Management,5,66.69,92,A,Dr. Sharma,Lab 1,8.1,33,6,No,36926,Not Placed
+STU0853,Student_853,Civil,Management,3,99.63,53,D,Dr. Kumar,Block B,6.1,35,39,Yes,47870,Not Placed
+STU0854,Student_854,MBA,Networks,5,75.86,66,C,Prof. Rao,Block B,9.1,35,35,No,59790,Not Placed
+STU0855,Student_855,EEE,Data Science,1,75.11,78,B,Dr. Sharma,Block B,5.9,17,10,Yes,78223,Placed
+STU0856,Student_856,ECE,Python,6,92.82,100,A,Prof. Reddy,Lab 1,7.6,39,25,Yes,34504,Not Placed
+STU0857,Student_857,CSE,AI,3,62.98,61,C,Dr. Sharma,Block B,6.3,47,18,Yes,37085,Placed
+STU0858,Student_858,ECE,Python,3,63.54,59,D,Dr. Kumar,Block B,9.7,9,9,Yes,117186,Not Placed
+STU0859,Student_859,Civil,Networks,7,70.68,69,C,Prof. Rao,Lab 2,7.4,33,18,Yes,117014,Not Placed
+STU0860,Student_860,Mechanical,Networks,4,98.92,49,D,Prof. Rao,Lab 2,1.4,28,19,No,49863,Placed
+STU0861,Student_861,EEE,Networks,2,90.8,70,C,Prof. Reddy,Lab 1,8.0,35,7,Yes,38524,Placed
+STU0862,Student_862,CSE,Networks,6,85.74,92,A,Prof. Reddy,Lab 1,5.5,18,9,No,44861,Not Placed
+STU0863,Student_863,EEE,Python,1,84.88,51,D,Prof. Reddy,Lab 1,7.8,20,20,Yes,87927,Placed
+STU0864,Student_864,CSE,Networks,7,60.53,82,B,Prof. Rao,Block A,6.0,36,35,No,67552,Placed
+STU0865,Student_865,Mechanical,Networks,1,96.4,98,A,Dr. Sharma,Block A,8.4,39,34,No,91043,Not Placed
+STU0866,Student_866,ECE,DBMS,3,89.81,92,A,Dr. Kumar,Lab 1,1.2,26,10,Yes,111704,Placed
+STU0867,Student_867,CSE,Networks,2,60.43,64,C,Dr. Sharma,Block B,5.3,46,24,No,116997,Not Placed
+STU0868,Student_868,ECE,Data Science,4,86.6,46,D,Prof. Reddy,Lab 2,2.8,24,39,No,92996,Placed
+STU0869,Student_869,MBA,Data Science,2,90.14,95,A,Dr. Kumar,Block B,6.7,33,35,No,50613,Not Placed
+STU0870,Student_870,MBA,DBMS,1,98.78,61,C,Prof. Reddy,Lab 1,9.7,40,4,Yes,68194,Placed
+STU0871,Student_871,EEE,Management,7,71.34,45,D,Dr. Sharma,Block B,2.1,13,11,No,109149,Not Placed
+STU0872,Student_872,EEE,Data Science,8,77.53,94,A,Dr. Sharma,Lab 2,1.5,16,21,No,48553,Not Placed
+STU0873,Student_873,Mechanical,Data Science,2,81.84,42,D,Prof. Rao,Block A,6.8,5,28,Yes,90281,Not Placed
+STU0874,Student_874,Civil,Management,4,71.33,84,B,Dr. Kumar,Lab 2,2.2,46,15,No,84522,Not Placed
+STU0875,Student_875,ECE,Networks,2,89.79,85,B,Prof. Rao,Block B,3.2,26,28,Yes,53044,Placed
+STU0876,Student_876,Civil,DBMS,8,90.1,89,B,Prof. Rao,Block B,2.5,15,39,Yes,25916,Not Placed
+STU0877,Student_877,Civil,AI,4,85.5,58,D,Dr. Sharma,Block B,9.3,33,1,No,25006,Not Placed
+STU0878,Student_878,Mechanical,Networks,3,99.87,74,C,Dr. Sharma,Block A,3.7,45,12,No,43861,Not Placed
+STU0879,Student_879,Civil,Management,2,86.12,71,C,Dr. Kumar,Lab 1,2.6,48,7,No,85079,Not Placed
+STU0880,Student_880,MBA,Python,6,85.62,59,D,Prof. Reddy,Lab 1,9.4,15,27,Yes,110370,Not Placed
+STU0881,Student_881,Civil,Management,7,82.73,90,A,Prof. Rao,Lab 1,2.6,7,27,Yes,94878,Placed
+STU0882,Student_882,Mechanical,AI,1,73.83,71,C,Prof. Rao,Block B,5.1,39,9,Yes,96835,Placed
+STU0883,Student_883,Mechanical,AI,2,68.13,75,B,Prof. Reddy,Lab 2,2.7,32,20,Yes,63023,Placed
+STU0884,Student_884,Civil,AI,8,98.12,51,D,Dr. Sharma,Lab 1,7.9,29,7,Yes,78005,Not Placed
+STU0885,Student_885,MBA,DBMS,2,96.17,51,D,Dr. Kumar,Block B,1.1,49,36,Yes,54101,Not Placed
+STU0886,Student_886,ECE,Management,2,69.6,68,C,Prof. Reddy,Lab 2,2.9,24,15,No,47839,Placed
+STU0887,Student_887,EEE,AI,6,90.73,61,C,Prof. Rao,Block B,2.5,35,40,No,102520,Not Placed
+STU0888,Student_888,MBA,Python,3,86.02,37,F,Dr. Sharma,Lab 1,2.1,20,31,Yes,99675,Not Placed
+STU0889,Student_889,EEE,AI,3,76.74,85,B,Prof. Rao,Lab 1,9.0,38,39,Yes,58123,Not Placed
+STU0890,Student_890,CSE,Data Science,6,62.84,75,B,Prof. Reddy,Lab 2,7.3,3,14,Yes,118294,Placed
+STU0891,Student_891,Mechanical,Data Science,7,75.84,81,B,Prof. Reddy,Block B,5.1,50,3,No,110982,Not Placed
+STU0892,Student_892,MBA,Networks,8,65.53,56,D,Prof. Rao,Lab 2,7.7,45,20,No,109746,Placed
+STU0893,Student_893,ECE,Management,2,61.0,41,D,Prof. Rao,Lab 1,1.9,3,5,Yes,97872,Placed
+STU0894,Student_894,EEE,AI,4,75.93,53,D,Dr. Sharma,Lab 1,3.2,19,18,No,106090,Not Placed
+STU0895,Student_895,CSE,Management,8,91.87,79,B,Dr. Sharma,Lab 2,1.3,11,39,No,54819,Placed
+STU0896,Student_896,EEE,Management,3,96.06,61,C,Dr. Sharma,Block A,5.7,37,25,No,94211,Placed
+STU0897,Student_897,EEE,Networks,5,88.96,67,C,Dr. Kumar,Block B,8.9,3,24,Yes,69835,Placed
+STU0898,Student_898,ECE,DBMS,8,73.47,49,D,Prof. Reddy,Block B,6.4,22,3,Yes,22099,Placed
+STU0899,Student_899,MBA,Python,6,95.05,57,D,Dr. Kumar,Lab 1,2.0,11,3,No,27878,Not Placed
+STU0900,Student_900,CSE,Management,4,90.79,60,C,Dr. Sharma,Lab 1,4.1,28,7,No,103505,Placed
+STU0901,Student_901,MBA,Networks,7,79.84,76,B,Dr. Sharma,Block A,5.8,18,39,Yes,23649,Not Placed
+STU0902,Student_902,CSE,AI,1,65.73,69,C,Prof. Rao,Lab 1,6.7,24,28,No,54814,Placed
+STU0903,Student_903,ECE,DBMS,2,60.78,84,B,Dr. Sharma,Block B,5.3,38,9,Yes,53580,Placed
+STU0904,Student_904,ECE,DBMS,5,74.68,71,C,Prof. Reddy,Block A,5.1,39,19,Yes,105097,Placed
+STU0905,Student_905,EEE,Management,3,81.13,84,B,Prof. Reddy,Lab 2,8.1,42,14,Yes,116932,Not Placed
+STU0906,Student_906,CSE,Data Science,1,80.96,93,A,Prof. Rao,Lab 1,6.0,42,33,Yes,107304,Placed
+STU0907,Student_907,Civil,Python,1,63.8,44,D,Prof. Rao,Block B,8.1,18,8,No,78288,Not Placed
+STU0908,Student_908,EEE,Data Science,6,69.01,53,D,Prof. Rao,Lab 2,5.3,40,21,No,27591,Not Placed
+STU0909,Student_909,Civil,AI,2,76.12,39,F,Prof. Reddy,Lab 2,8.4,21,2,Yes,77866,Not Placed
+STU0910,Student_910,MBA,Python,5,76.7,44,D,Dr. Sharma,Lab 2,6.6,12,21,No,55331,Not Placed
+STU0911,Student_911,CSE,Python,2,75.76,52,D,Dr. Sharma,Lab 2,5.5,6,9,Yes,117862,Placed
+STU0912,Student_912,Mechanical,Management,4,80.83,41,D,Dr. Kumar,Lab 1,9.2,10,19,Yes,63137,Not Placed
+STU0913,Student_913,ECE,AI,1,74.32,88,B,Dr. Kumar,Lab 1,10.0,44,8,No,35766,Not Placed
+STU0914,Student_914,EEE,DBMS,1,60.85,62,C,Prof. Rao,Block A,6.7,9,24,No,86925,Not Placed
+STU0915,Student_915,Civil,Data Science,8,71.5,72,C,Dr. Kumar,Lab 1,9.8,32,37,No,94653,Not Placed
+STU0916,Student_916,MBA,AI,2,62.27,75,B,Prof. Reddy,Lab 2,2.7,15,34,Yes,82448,Placed
+STU0917,Student_917,EEE,Python,2,97.5,53,D,Prof. Rao,Lab 1,1.9,35,13,No,43776,Placed
+STU0918,Student_918,MBA,Management,8,89.16,83,B,Prof. Rao,Lab 2,8.5,10,13,Yes,28707,Not Placed
+STU0919,Student_919,CSE,Data Science,5,63.32,42,D,Dr. Sharma,Block A,2.8,31,38,Yes,86697,Placed
+STU0920,Student_920,Civil,Python,7,82.47,52,D,Prof. Reddy,Block A,6.0,32,38,Yes,27089,Not Placed
+STU0921,Student_921,EEE,Data Science,6,92.66,77,B,Prof. Rao,Block B,5.3,10,22,No,100333,Placed
+STU0922,Student_922,EEE,DBMS,8,77.01,55,D,Prof. Reddy,Block B,5.1,28,29,Yes,74937,Not Placed
+STU0923,Student_923,EEE,Networks,7,86.73,88,B,Prof. Rao,Lab 2,3.5,11,3,Yes,73028,Placed
+STU0924,Student_924,Mechanical,Networks,4,87.97,57,D,Dr. Kumar,Lab 1,3.0,38,24,No,117979,Placed
+STU0925,Student_925,Mechanical,DBMS,5,98.44,36,F,Dr. Kumar,Block A,2.3,15,3,Yes,117767,Not Placed
+STU0926,Student_926,ECE,Data Science,8,89.17,62,C,Dr. Kumar,Lab 2,9.7,5,20,Yes,48043,Not Placed
+STU0927,Student_927,EEE,DBMS,2,63.45,52,D,Dr. Kumar,Block A,9.2,10,1,Yes,115263,Placed
+STU0928,Student_928,Mechanical,Management,3,88.27,87,B,Dr. Kumar,Lab 2,1.4,46,38,No,64624,Not Placed
+STU0929,Student_929,MBA,Python,6,97.34,49,D,Prof. Rao,Block A,2.1,27,13,Yes,91126,Placed
+STU0930,Student_930,ECE,Python,7,87.1,80,B,Prof. Rao,Block A,6.5,40,7,No,87534,Placed
+STU0931,Student_931,MBA,Python,1,96.64,62,C,Prof. Rao,Block A,5.7,31,8,No,43953,Placed
+STU0932,Student_932,Civil,AI,7,66.04,46,D,Dr. Sharma,Block B,2.3,20,35,Yes,59247,Not Placed
+STU0933,Student_933,Mechanical,Python,8,90.32,37,F,Prof. Reddy,Block A,2.9,48,25,No,100046,Not Placed
+STU0934,Student_934,EEE,Data Science,5,77.39,54,D,Dr. Kumar,Block B,8.0,45,34,No,118160,Not Placed
+STU0935,Student_935,ECE,AI,3,65.25,40,D,Dr. Kumar,Lab 1,8.2,47,14,No,40265,Not Placed
+STU0936,Student_936,ECE,AI,4,71.14,62,C,Prof. Reddy,Lab 2,9.7,43,18,No,115304,Placed
+STU0937,Student_937,Mechanical,Python,4,60.11,47,D,Prof. Reddy,Lab 1,7.7,13,23,No,79148,Placed
+STU0938,Student_938,EEE,AI,5,78.32,67,C,Dr. Kumar,Block B,8.7,23,31,Yes,75758,Placed
+STU0939,Student_939,Mechanical,AI,3,87.25,64,C,Dr. Sharma,Lab 2,5.0,36,5,Yes,64246,Placed
+STU0940,Student_940,MBA,DBMS,8,86.27,53,D,Prof. Rao,Lab 1,8.3,37,38,No,64806,Placed
+STU0941,Student_941,Civil,Data Science,7,71.8,69,C,Prof. Rao,Lab 2,3.7,13,39,No,92256,Placed
+STU0942,Student_942,EEE,DBMS,7,93.11,94,A,Prof. Reddy,Lab 2,6.9,16,25,No,54223,Placed
+STU0943,Student_943,CSE,Management,2,75.91,82,B,Prof. Rao,Block B,7.8,49,18,Yes,56081,Not Placed
+STU0944,Student_944,CSE,DBMS,8,76.02,76,B,Dr. Sharma,Block B,5.0,47,18,No,60108,Not Placed
+STU0945,Student_945,MBA,AI,6,93.6,48,D,Dr. Sharma,Lab 2,1.4,43,16,No,68208,Not Placed
+STU0946,Student_946,Mechanical,Networks,5,67.77,62,C,Dr. Kumar,Lab 2,1.6,45,20,No,93552,Not Placed
+STU0947,Student_947,Civil,AI,5,69.98,90,A,Prof. Reddy,Lab 2,1.7,18,4,Yes,98488,Placed
+STU0948,Student_948,MBA,Data Science,1,96.62,97,A,Dr. Sharma,Block B,9.0,21,21,No,29171,Not Placed
+STU0949,Student_949,EEE,Management,6,97.54,93,A,Dr. Kumar,Block A,5.4,27,20,No,75485,Placed
+STU0950,Student_950,Mechanical,AI,2,81.0,56,D,Prof. Reddy,Lab 2,6.9,40,31,No,64927,Placed
+STU0951,Student_951,MBA,Management,6,77.44,37,F,Dr. Sharma,Lab 2,1.7,10,27,Yes,41203,Not Placed
+STU0952,Student_952,Mechanical,AI,5,93.69,94,A,Prof. Rao,Lab 2,5.5,33,17,Yes,59547,Placed
+STU0953,Student_953,Civil,DBMS,6,63.99,84,B,Prof. Rao,Block B,8.5,9,34,No,107227,Not Placed
+STU0954,Student_954,Mechanical,DBMS,5,66.86,64,C,Prof. Reddy,Block B,9.6,4,38,No,112839,Placed
+STU0955,Student_955,MBA,DBMS,2,78.89,67,C,Dr. Kumar,Lab 2,7.9,25,37,No,106396,Placed
+STU0956,Student_956,CSE,Data Science,2,69.71,93,A,Prof. Reddy,Lab 2,5.3,18,19,Yes,41073,Not Placed
+STU0957,Student_957,MBA,Python,1,73.83,41,D,Prof. Reddy,Block B,1.3,19,37,Yes,80238,Placed
+STU0958,Student_958,ECE,Data Science,5,62.86,75,B,Prof. Rao,Block A,3.8,13,30,Yes,55483,Not Placed
+STU0959,Student_959,MBA,Networks,1,70.77,67,C,Dr. Sharma,Block B,3.1,31,27,Yes,66468,Not Placed
+STU0960,Student_960,EEE,AI,3,63.03,46,D,Prof. Rao,Lab 1,3.0,9,5,Yes,71007,Not Placed
+STU0961,Student_961,MBA,Python,1,94.68,42,D,Dr. Kumar,Lab 1,7.0,36,14,Yes,36493,Not Placed
+STU0962,Student_962,CSE,Python,4,76.5,89,B,Prof. Rao,Block B,4.3,14,11,No,24723,Placed
+STU0963,Student_963,MBA,Networks,3,63.28,54,D,Prof. Reddy,Lab 2,3.9,29,17,No,32308,Not Placed
+STU0964,Student_964,EEE,Management,2,62.08,43,D,Dr. Kumar,Lab 2,7.0,44,38,No,116855,Placed
+STU0965,Student_965,Mechanical,Networks,8,66.85,64,C,Prof. Rao,Block A,7.5,1,2,Yes,93521,Not Placed
+STU0966,Student_966,CSE,AI,8,61.88,83,B,Dr. Sharma,Block B,6.8,2,32,Yes,67691,Placed
+STU0967,Student_967,Mechanical,Data Science,3,67.29,92,A,Prof. Reddy,Block B,9.3,33,12,Yes,72256,Placed
+STU0968,Student_968,Civil,AI,3,79.86,83,B,Dr. Sharma,Block A,9.2,30,29,No,89160,Placed
+STU0969,Student_969,Mechanical,Python,5,78.79,81,B,Prof. Rao,Lab 2,8.4,23,11,Yes,59664,Not Placed
+STU0970,Student_970,EEE,Management,4,98.82,61,C,Prof. Rao,Block B,9.5,19,3,No,22674,Placed
+STU0971,Student_971,Civil,AI,4,94.07,83,B,Prof. Reddy,Block A,3.7,49,23,Yes,35382,Not Placed
+STU0972,Student_972,Mechanical,Management,2,74.61,93,A,Dr. Sharma,Block A,3.7,16,11,Yes,90939,Placed
+STU0973,Student_973,Mechanical,DBMS,4,83.99,87,B,Dr. Sharma,Lab 1,6.1,25,36,No,113546,Not Placed
+STU0974,Student_974,Mechanical,Python,5,65.01,55,D,Dr. Sharma,Block B,6.1,44,14,No,73344,Placed
+STU0975,Student_975,EEE,AI,7,90.45,73,C,Dr. Kumar,Lab 2,5.0,8,22,No,48596,Not Placed
+STU0976,Student_976,Civil,DBMS,2,78.97,46,D,Prof. Reddy,Lab 1,5.9,4,25,No,50135,Placed
+STU0977,Student_977,CSE,DBMS,8,75.36,38,F,Dr. Kumar,Block A,6.4,11,37,No,48351,Not Placed
+STU0978,Student_978,Mechanical,DBMS,7,88.78,71,C,Dr. Kumar,Block B,1.4,45,30,No,72543,Not Placed
+STU0979,Student_979,EEE,DBMS,5,77.2,66,C,Prof. Reddy,Lab 1,4.4,47,27,Yes,99130,Placed
+STU0980,Student_980,Mechanical,AI,6,91.86,69,C,Dr. Kumar,Block B,1.5,24,36,Yes,21365,Not Placed
+STU0981,Student_981,Civil,Management,6,94.78,44,D,Dr. Sharma,Lab 2,7.1,27,25,Yes,44446,Not Placed
+STU0982,Student_982,Mechanical,DBMS,4,93.0,94,A,Prof. Reddy,Block A,4.6,22,31,Yes,35946,Not Placed
+STU0983,Student_983,EEE,DBMS,1,86.66,54,D,Dr. Sharma,Block B,2.2,44,4,Yes,77120,Placed
+STU0984,Student_984,ECE,DBMS,8,77.73,36,F,Prof. Reddy,Block A,5.5,34,27,Yes,33674,Placed
+STU0985,Student_985,Mechanical,AI,7,75.73,68,C,Dr. Sharma,Lab 2,4.1,18,13,No,37756,Placed
+STU0986,Student_986,CSE,Networks,2,64.25,84,B,Prof. Reddy,Block B,7.3,8,14,Yes,27486,Not Placed
+STU0987,Student_987,MBA,DBMS,5,68.75,97,A,Prof. Reddy,Block B,5.5,33,1,Yes,93599,Not Placed
+STU0988,Student_988,CSE,AI,6,78.56,57,D,Prof. Reddy,Lab 2,2.7,3,24,Yes,25229,Placed
+STU0989,Student_989,EEE,DBMS,2,88.89,97,A,Dr. Sharma,Lab 2,6.1,42,23,No,32439,Not Placed
+STU0990,Student_990,EEE,DBMS,5,84.92,35,F,Prof. Rao,Block B,9.0,18,2,Yes,35181,Not Placed
+STU0991,Student_991,EEE,Management,2,70.1,82,B,Dr. Kumar,Lab 2,7.9,33,17,Yes,104122,Not Placed
+STU0992,Student_992,EEE,DBMS,8,66.92,86,B,Dr. Sharma,Block B,9.5,19,16,No,56939,Placed
+STU0993,Student_993,EEE,AI,4,66.88,42,D,Prof. Reddy,Block B,7.8,30,11,No,50229,Placed
+STU0994,Student_994,CSE,Networks,8,62.77,97,A,Prof. Reddy,Lab 1,8.8,47,16,Yes,101325,Placed
+STU0995,Student_995,ECE,AI,3,75.7,98,A,Prof. Rao,Lab 2,6.6,48,2,Yes,87346,Placed
+STU0996,Student_996,Mechanical,Python,2,70.86,42,D,Dr. Sharma,Block A,4.4,31,23,No,47977,Placed
+STU0997,Student_997,Mechanical,Networks,6,66.56,66,C,Dr. Sharma,Lab 2,9.2,28,21,Yes,96407,Not Placed
+STU0998,Student_998,MBA,DBMS,1,71.52,36,F,Dr. Kumar,Block B,2.2,15,3,Yes,103714,Not Placed
+STU0999,Student_999,MBA,Data Science,3,84.49,44,D,Prof. Rao,Block A,6.4,8,30,Yes,62454,Placed
+STU1000,Student_1000,CSE,DBMS,4,74.59,39,F,Prof. Rao,Lab 1,4.1,47,36,Yes,64707,Placed
