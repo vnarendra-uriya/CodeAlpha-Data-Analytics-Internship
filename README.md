@@ -1,44 +1,17 @@
-# CodeAlpha Power BI Dashboards
+# 📊 CodeAlpha Power BI Dashboards
 
-Screen recordings and documentation for four Power BI dashboards (CodeAlpha tasks 1–4).
+This repository contains four interactive Power BI dashboards developed during my CodeAlpha Data Analytics Internship.
 
-## Dashboard index
+## 🚀 Dashboard Projects
 
-| Task | Dashboard        | Project README                               | Folder README                                            | Thumbnail                                    | Recording                                    |
-| ---- | ---------------- | -------------------------------------------- | -------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| 1    | Financial Health | [README-Project-1.md](./README-Project-1.md) | [codeAlphaTask-1/README.md](./codeAlphaTask-1/README.md) | [thumbnail](./codeAlphaTask-1/thumbnail.png) | [codeAlphaTask-1.mp4](./codeAlphaTask-1.mp4) |
-| 2    | HR Analytics     | [README-Project-2.md](./README-Project-2.md) | [CodeAlphaTask-2/README.md](./CodeAlphaTask-2/README.md) | [thumbnail](./CodeAlphaTask-2/thumbnail.png) | [CodeAlphaTask-2.mp4](./CodeAlphaTask-2.mp4) |
-| 3    | Real Estate      | [README-Project-3.md](./README-Project-3.md) | [CodeAlphaTask-3/README.md](./CodeAlphaTask-3/README.md) | [thumbnail](./CodeAlphaTask-3/thumbnail.png) | [CodeAlphaTask-3.mp4](./CodeAlphaTask-3.mp4) |
-| 4    | Education        | [README-Project-4.md](./README-Project-4.md) | [CodeAlphaTask-4/README.md](./CodeAlphaTask-4/README.md) | [thumbnail](./CodeAlphaTask-4/thumbnail.png) | [CodeAlphaTask-4.mp4](./CodeAlphaTask-4.mp4) |
+| No. | Project                             | Open Project                                |
+| --- | ----------------------------------- | ------------------------------------------- |
+| 1   | Financial Health Dashboard          | [View](./Financial-Health-Dashboard)        |
+| 2   | HR Analytics Dashboard              | [View](./HR-Analytics-Dashboard)            |
+| 3   | Real Estate Market Trends Dashboard | [View](./Real-Estate-Market-Trends)         |
+| 4   | Educational Performance Dashboard   | [View](./Educational-Performance-Dashboard) |
 
-## Repository layout
-
-```
-screenrecordingCA/
-├── README.md                 ← this file (index)
-├── README-Project-1.md       ← Project 1 docs
-├── README-Project-2.md       ← Project 2 docs
-├── README-Project-3.md       ← Project 3 docs
-├── README-Project-4.md       ← Project 4 docs
-├── codeAlphaTask-1.mp4
-├── CodeAlphaTask-2.mp4
-├── CodeAlphaTask-3.mp4
-├── CodeAlphaTask-4.mp4
-├── codeAlphaTask-1/
-│   ├── README.md
-│   └── thumbnail.png
-├── CodeAlphaTask-2/
-│   ├── README.md
-│   └── thumbnail.png
-├── CodeAlphaTask-3/
-│   ├── README.md
-│   └── thumbnail.png
-└── CodeAlphaTask-4/
-    ├── README.md
-    └── thumbnail.png
-```
-
-## 📊 Dashboard Projects
+## 📈 Domains Covered
 
 | Project                             | Domain                    |
 | ----------------------------------- | ------------------------- |
@@ -47,4 +20,46 @@ screenrecordingCA/
 | Real Estate Market Trends Dashboard | Real Estate Analytics     |
 | Educational Performance Dashboard   | Education Analytics       |
 
-Thumbnails were captured from representative frames in each screen recording (~20–60% through the video).
+## 🛠 Tools & Technologies
+
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+
+## 📂 Repository Structure
+
+```text
+CodeAlpha-Data-Analytics-Internship/
+│
+├── Financial-Health-Dashboard/
+├── HR-Analytics-Dashboard/
+├── Real-Estate-Market-Trends/
+├── Educational-Performance-Dashboard/
+└── README.md
+```
+
+## 🎯 Key Skills Demonstrated
+
+- Interactive Dashboard Development
+- KPI Design & Reporting
+- Data Cleaning & Transformation
+- Business Intelligence Reporting
+- Data Storytelling
+- Data Visualization
+
+## 📌 Project Resources
+
+Each project folder contains:
+
+- Project Documentation (README.md)
+- Dashboard Thumbnail
+- Screen Recording Demo
+- Dataset (CSV)
+- Power BI Dashboard File (PBIX)
+
+```
+
+```
