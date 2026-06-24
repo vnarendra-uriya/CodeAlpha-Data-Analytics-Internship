@@ -2,15 +2,6 @@
 
 Screen recordings and documentation for four Power BI dashboards (CodeAlpha tasks 1–4).
 
-## Individual project README files
-
-| Project | README | Dashboard |
-|---------|--------|-----------|
-| 1 | [README-Project-1.md](./README-Project-1.md) | Financial Health Dashboard |
-| 2 | [README-Project-2.md](./README-Project-2.md) | HR Analytics Dashboard |
-| 3 | [README-Project-3.md](./README-Project-3.md) | Real Estate Market Trends |
-| 4 | [README-Project-4.md](./README-Project-4.md) | Educational Performance & Resource Allocation |
-
 ## Dashboard index
 
 | Task | Dashboard | Project README | Folder README | Thumbnail | Recording |
